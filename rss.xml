@@ -9,8 +9,6 @@
     <description>Podcast alla daga um fréttir dagsins</description>
     <itunes:image href="https://drive.google.com/file/d/1AkhQhK_Vx--tXGDa8laa82sThFRc1Y91/view?usp=sharing"/>
  <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
-
-    </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Fréttir dagsins</itunes:name>
