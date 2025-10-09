@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Fréttir dagsins</title>
-    <link>http://www.example.com/yourpodcast</link>
+    <link>http://www.mbl.is/</link>
     <language>is-IS</language>
     <copyright>&#xA9; 2025 Fréttir dagsins af Íslandi/copyright>
     <itunes:author>Fréttir dagsins<itunes:author>
@@ -36,15 +36,6 @@
       />
       
     </item>
-    
-    
-  <item>
-    <title><![CDATA[Untitled]]></title>
-    <description><![CDATA[Untitled]]></description>
-    <pubDate>1759927442874</pubDate>
-    <enclosure url="" length="1234567" type="audio/mpeg" />
-    <guid isPermaLink="false">1759927442874</guid>
-  </item>
 
 </channel>
 </rss>
