@@ -40,5 +40,18 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+
+  <item>
+    <title>12.11.2025 - Fréttir dagsins</title>
+    <description>12.11.2025 - Fréttir dagsins</description>
+    <pubDate>12 Nov 2025 11:44:41 +00:00
+  </pubDate>
+    <enclosure url="https://drive.google.com/uc?id=19ULDB9E5cyxVHLjWuJt1ilObsKYw9lXx&export=download" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">12 Nov 2025 11:44:41 +00:00
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
