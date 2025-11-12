@@ -40,16 +40,5 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
-  
-  <item>
-    <title><![CDATA[12.11.2025 - Fréttir dagsins]]></title>
-    <description><![CDATA[12.11.2025 - Fréttir dagsins]]></description>
-    <pubDate>12 Nov 2025 11:28:08 +00:00
-  </pubDate>
-    <enclosure url="https://drive.google.com/uc?id=1pN63fA7pPRO6HZIGCsWMZL1coEw7vSZl&export=download" type="audio/mpeg" length=""/>
-    <guid isPermaLink="false">12 Nov 2025 11:28:08 +00:00
-  </guid>
-  </item>
-
 </channel>
 </rss>
