@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/podcast">
   <channel>
-    <title>My Awesome Podcast - Fixed for Spotify</title>
-    <link>http://www.example.com/podcast</link>
-    <language>en-us</language>
-    <itunes:subtitle>A short, engaging subtitle for the show.</itunes:subtitle>
-    <itunes:summary>This is the full description of the podcast. It should be compelling and accurately describe the content. Use this space to give listeners all the information they need to decide to subscribe to your show. It must be in plain text and not contain HTML.</itunes:summary>
-    <description>This is the channel description field, which is a required RSS element.</description>
+    <title>Fréttir dagsins</title>
+    <link>http://www.mbl.is/</link>
+    <language>is-IS</language>
+    <itunes:subtitle>Hvað er helst í fréttum í dag?</itunes:subtitle>
+    <itunes:summary>Fréttir dagsins er hlaðvarp sem gefur út helstu fréttir dagsins alla morgna.</itunes:summary>
+    <description>Fréttir dagsins er hlaðvarp sem gefur út helstu fréttir dagsins alla morgna.</description>
     
     <itunes:owner>
-      <itunes:name>The Show Host Name</itunes:name>
-      <itunes:email>podcast.owner.email@example.com</itunes:email>
+      <itunes:name>Fréttir dagsins</itunes:name>
+      <itunes:email>fdagsins@atomicmail.io</itunes:email>
     </itunes:owner>
     
-    <itunes:author>The Show Host Name</itunes:author>
+    <itunes:author>Fréttir dagsins</itunes:author>
     
-    <itunes:image href="http://www.example.com/images/podcast_cover_3000x3000.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/refs/heads/main/fdagsinslogo.png"/>
     
-    <itunes:category text="Technology">
-      <itunes:category text="Tech News"/>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
@@ -26,28 +26,17 @@
     <pubDate>Mon, 11 Nov 2025 12:00:00 GMT</pubDate>
 
     <item>
-      <title>Episode 1: The Pilot - A Fresh Start</title>
+      <title>09.10.2025</title>
       
-      <enclosure url="http://www.example.com/audio/episode_001.mp3" length="12345678" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?id=1sXdRzhVrIPncTHjg7WPe93C_dLN1msYb&export=download" length="12345678" type="audio/mpeg"/>
       
       <guid isPermaLink="false">my-awesome-podcast-ep1-11112025</guid>
       
-      <pubDate>Mon, 11 Nov 2025 12:00:00 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 06:00:00 GMT</pubDate>
       
-      <description>This is the episode-level summary. It details what the episode is about. This is what listeners see on the episode page.</description>
-      <itunes:duration>00:35:12</itunes:duration>
-      <itunes:author>Guest Speaker Name</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>Episode 2: Deep Dive into Podcasting</title>
-      <enclosure url="http://www.example.com/audio/episode_002.mp3" length="9876543" type="audio/mpeg"/>
-      <guid isPermaLink="false">my-awesome-podcast-ep2-18112025</guid>
-      <pubDate>Mon, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <description>We explore the history and future of digital audio content.</description>
-      <itunes:duration>1800</itunes:duration>
-      <itunes:author>The Show Host Name</itunes:author>
+      <description>Fréttir dagsins.</description>
+      <itunes:duration>00:01:33</itunes:duration>
+      <itunes:author>Fréttir dagsins/itunes:author>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
