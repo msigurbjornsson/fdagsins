@@ -37,5 +37,18 @@
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>13.11.2025 - Fréttir dagsins</title>
+    <description>13.11.2025 - Fréttir dagsins</description>
+    <pubDate>13 Nov 2025 06:01:22 +00:00
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/13-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">13 Nov 2025 06:01:22 +00:00
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
