@@ -30,7 +30,7 @@
     <description>12.11.2025 - Fréttir dagsins</description>
     <pubDate>Tue, 12 Nov 2025 11:44:41 GMT
   </pubDate>
-    <enclosure url="https://github.com/msigurbjornsson/fdagsins/blob/8a03c8bfdf95e38af943235df4fb8be448806703/12-11-2025.mp3?raw=true" type="audio/mpeg" length="1234567"/>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/12-11-2025.mp3" type="audio/mpeg" length="1234567"/>
     <guid isPermaLink="false">Tue, 12 Nov 2025 11:44:41 GMT
   </guid>
 
