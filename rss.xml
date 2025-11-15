@@ -64,5 +64,30 @@
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>15.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Maðurinn, sem er þríggja barna faðir, lá inni á sjúkrahúsi í fimm vikur eftir að sprengdi sig í meltingarveginum á leið til Íslands.
+
+Kaup og uppsetning á sérpöntuðum ítölskum lömpum í skólstofur í tveimur grunnskólum í Reykjanesbæ kostaði sveitarfélagið rúmar 48 milljónir króna, en verktakar sögðu að vel hefði verið hægt að kaupa og setja upp ódýrari ljós í skólstofurnar.
+
+Forsvarsmenn líkamsræktarstöðvarinnar Austur segja lækkanir á gjaldskrá Héraðséreks setja einkaaðila í óþægilega stöðu. Austur er einkarekin líkamsræktarstöð á Egilsstöðum en Héraðserek heyrir undir sveitarfélagið Múlaþing sem hluti af íþróttamiðstöðinni á Egilsstöðum.
+
+Karl Jónasson matreiðslumeistari telur vert að staldra við auglýsingu sem birtist á Starfatorgi þar sem auglýst er eftir yfirmanni mötuneytis á Litla-Hrauni og segir orðanotkun hennar varhugaverða og kröfuna í auglýsingunni umdeilda.
+
+Rúnar Sigurjónsson, formaður Fornbílaklúbbs Íslands, segir að hugmyndir um að breyta vörugjöldum af fornbílum, keppnisbílum og mótorhjólum muni ekki leiða til aukinnar tekju ríkisins.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 15 Nov 2025 06:01:06 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/15-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 15 Nov 2025 06:01:06 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
