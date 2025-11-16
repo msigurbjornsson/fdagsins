@@ -89,5 +89,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>16.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Katrín Jakobsdóttir, rithöfundur og fyrrverandi forsætisráðherra, telur að íslenska gæti þurrkast út eftir eina kynslóð vegna hraðrar útbreiðslu gervigreindar og áhrifa ensku.
+
+Loftslagsráðherra segir áralangan misskilning stjórnvalda á þeirra eigin losunarmarkmiði "stórkostlegan áfellisdóm" yfir loftslagsstjórnsýslu á Íslandi sem fyrri ríkisstjórnir þurfi að svara fyrir.
+
+Í október fóru umboðsmaður Alþingis og starfsmenn embættisins í næturlangt eftirlit í fangageymslu lögreglunnar við Hverfisgötu, frá föstudagskvöldi til laugardagsmorguns.
+
+Lögreglan á Austurlandi varð vitni að stjórnuhrapi sem svo heppilega vildi til að festist á filmu eftirlitsmyndavélar lögreglubílsins.
+
+Logi Már Einarsson, menningar-, nýsköpunar- og háskólaráðherra, segir fulla ástæðu til að taka mál sem snýr að stuldi bandaríska gervigreindarfyrirtækisins Anthropic á fjölda höfundaverka, þar á meðal íslenskum, alvarlega.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 16 Nov 2025 06:01:09 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/16-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 16 Nov 2025 06:01:09 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
