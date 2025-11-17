@@ -114,5 +114,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>17.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst:
+
+Alþjóðlegur minningardagur um fórnarlömb umferðarslysa er haldinn í fimmtánda sinn í dag. Í ár er kastljósinu sérstaklega beint að bílbeltanotkun, sérstaklega meðal ungs fólks. Faðir sem missti son sinn í bílslysi segir skelfilegt að heyra að bílbeltanotkun meðal ungs fólks sé að dragast saman. Lögreglumaður sem á léð sitt bílbelti að þakka hvetur alla til að muna eftir beltinu.
+
+Ísland tapaði á grátlegan hátt fyrir Úkraínu fyrr í kvöld í Varsjá, 2-0 í leik um sæti í HM-umspilinu. Arnór Þór Gunnarsson stýrði sínum mönnum til sigurs í Þýskalandi í handbolta ásamt öðrum íþróttafréttum tengdum Íslandsmönnum. Margir leikmenn Íslands og landsliðsþjálfari lýstu vonbrigðum með tapið.
+
+Kokainkóngur Wilmer "Pipo" Chavarria, forsprakki umsvifamesta glæpagengis Ekvador, var handtekinn í Malaga á Spáni. Hann hafði falsað eigin dauða árið 2021 og flúið til Evrópu en hélt áfram að stýra genginu í Ekvador.
+
+Á Íslandi var fundi í kjaradeilu flugumferðarstjóra og Isavia lokið í dag. Fundurinn markaði ekkert þokast á málum, óvissa ríkir um næstu skref.
+
+Guðný Birna Guðmundsdóttir, forseti bæjarstjórnar í Reykjanesbæ, segir þá lampa sem sett voru upp í grunnskólum bæjarins hafa verið ódýrasta kostinn miðað við þær kröfur sem gerðar voru til ljósanna. Þetta hefur vakið umræður og gagnrýni á framkvæmd.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 17 Nov 2025 06:01:22 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/17-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 17 Nov 2025 06:01:22 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
