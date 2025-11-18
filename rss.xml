@@ -139,5 +139,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>18.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+„Við erum að berjast á öllum vígstöðvum við að verja störf. Það er ekkert nýtt varðandi Norðurál og það er búið að fresta þessu sem varðar verndartollana fram til morguns.
+
+Menntamálayfirvöld á Íslandi hafa látið hjá líða að setja sér mælanleg markmið, þegar kemur að því að stemma stigu við versnandi grunnfærni grunnskólabarna.
+
+„Það er bara eins og það sé ekkert verið að berjast fyrir okkur. Það er eins og það sé ekki verið að berjast fyrir barnið okkar.“
+
+Inga Sæland, félags- og húsnæðismálaráðherra, segist ekki geta séð að aðgerðir í húsnæðispakka ríkisstjórnarinnar muni leiða til hækkunar á leiguverði.
+
+Lögreglu á lögreglustöð 3, sem sinnir verkefnum í Kópavogi og Breiðholti, var tilkynnt um tvo menn að betla fyrir utan verslanir í dag.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 18 Nov 2025 06:00:58 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/18-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 18 Nov 2025 06:00:58 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
