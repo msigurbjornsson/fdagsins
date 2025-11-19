@@ -164,5 +164,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>19.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst,
+
+Lögreglan í Vestmannaeyjum rannsakar mál tengt ofbeldishópnum 764. Barnaverndar og lögreglan hafa hvetja foreldra til að fara yfir samfélagsmiðlanotkun barna sinna og fylgjast vel með líðan þeirra. Þetta mál er til skoðunar vegna aukins brotastarfsemi tengdu þessum hópi.
+
+Börn sem vistað eru á neyðarvistun meðferðarheimilisins Stuðla hafa ítrekað pantað sér fíkniefni í gegnum samfélagsmiðilinn Instagram sem þau komast inn á í Playstation-tölvu í sameiginlegu rými. Málið vekur áhyggjur um öryggi barna og aðgang þeirra að ólöglegu efni.
+
+Jarðskjálftahrina út fyrir Reykjanestá hófst um klukkan 21 í kvöld. Flestir skjálftar hafa verið um 1,5 að stærð og allir undir tveimur, sem veldur lítilum eða engum skemmdum en vekur athygli á virkum jarðskjálftasvæðum.
+
+Deildarstjóri á leikskólanum Múlaborg er í veikindaleyfi meðal annars vegna kynferðisbrotamáls sem hefur verið til rannsóknar á leikskólanum síðan í ágúst. Foreldrar barns hafa kært niðurstöðu lögreglu að loka rannsókn á meintum ofbeldi starfsmanns leikskólans gegn barninu þeirra. Þetta mál hefur vakið mikla athygli og umfjöllun í fjölmiðlum.
+
+Ákvörðun framkvæmdastjórnar Evrópusambandsins um að veita Íslendingum og Norðmönnum ekki undanþágu frá verndartollum vegna innflutnings á kísiljárni hefur vakið upp hörð viðbrögð. Utanríkisráðherra segir þetta vera mikil vonbrigði og stjórnarandstaðan vill fresta innleiðingu EES-gerða vegna málsins.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 19 Nov 2025 06:01:34 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/19-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 19 Nov 2025 06:01:34 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
