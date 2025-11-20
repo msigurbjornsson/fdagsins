@@ -189,5 +189,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>20.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Viðbrögð samfélagsins vegna TikTok-myndskeiðs,  þar sem þrír menn flögguðu vopnum sem síðar kom í ljós að voru gervibyssur, eru skiljanleg. Slík myndbirting vekur óhug hjá mörgum og hægt er að setja myndbirtinguna í samhengi við ótta fólks við hryðjuverk.
+
+Peningastefnunefnd Seðlabanka Íslands taldi meiri lækkun meginvaxta en sem nemur 25 punktum ekki skynsamlega að þessu sinni. 
+
+Jón Bjarki Bentsson, aðalhagfræðingur Íslandsbanka, telur kveður við fastan tón í nýrri framsýnni leiðsögn peningastefnunefndar Seðlabanka Íslands. Greiningardeild Íslandsbanka spáir því að nefndin haldi áfram að lækka stýrivexti í byrjun næsta árs.
+
+Íbúum Hrafnistu á Sléttuvegi hefur verið komið í öruggt skjöl eftir að eldur kom upp í húsnæðinu í gærmorgun.
+
+Mikið uppbyggingarskeið er framundan hjá fyrirtækinu Landsneti um allt land, en ljóst er að fjárfestingar fyrirtækisins verða eitthvað umfram þá 11-14 milljarða sem fyrirtækið hefur miðað við undanfarin ár.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 20 Nov 2025 06:01:04 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/20-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 20 Nov 2025 06:01:04 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
