@@ -214,5 +214,28 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>21.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst,
+
+Hópur Íslendinga situr um þessar mundir fastur á flugvelli í Dyflinni, höfuðborg Írlands, eftir að flugvél félagsins Neos á leið til Keflavíkur frá Alicante neyddist til að lenda þar um klukkan 19 í kvöld vegna vélarbilunar. Þetta hafði harkalegasta lendingu sem Valgarð hefur upplifað og flugstöðin var lokuð allt um kvöldið.
+
+„Ekki er vitað hvað átt er við með þeirri fullyrðingu sem þessi fyrirspurn felur í sér um eineltis- og ofbeldisvanda til margra ára.“ Svo hljóðaði svar Reykjavíkurborgar við fyrstu fyrirspurn Morgunblaðsins um alvarlegan vanda Breiðholtsskóla í febrúar síðastliðnum. Nú hefur mennta- og barnamálaráðuneytið látið það í hendur Reykjavíkurborgar að fylgjast með hvernig skólinn gengur að leysa úr þeim vanda sem Morgunblaðið og mbl.is afhjúpuðu í byrjun árs.
+
+Guðmundur Ingi Kristinsson, mennta- og barnamálaráðherra, fullyrti á Alþingi í dag, að ekki væru merki um aukna vímuefnaneyslu barna á árunum 2023 til 2025, „þvert á ýmsar fréttir“, eins og hann orðaði það í sérstakri umræðu um stöðu barna á Íslandi, í tilefni af Alþjóðlegum degi barnsins.
+
+Mjög sérstakar myndir voru deilt af Höllu Tómasdóttur forseta Íslands og Karl Bretakonungi þar sem Halla átti sögulegan fund með Karlsvininum. Hún segir að konungur Bretlands sé hlýtt til Íslands og Íslendinga, enda hafi hann varið miklum tíma við laxveiði hér á landi og sé umhugað um laxastofninn.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 21 Nov 2025 06:01:21 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/21-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 21 Nov 2025 06:01:21 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
