@@ -237,5 +237,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>22.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst:
+
+Þorsteinn Bárðarson, Íslandsmeistari í götuhjólreiðum á þessu ári og bikarmeistari í tímatöku, hefur verið úrskurðaður í fimm ára keppnisbann eftir að hafa fallið á lyfjaprófi í ágúst. Notkunin var sögð markviss og úthugsað í þeim tilgangi að ná fram bættum árangri.
+
+Mikið leikjaálag er á handknattleiksfólki í fremstu röð, bæði með félögum og landsliði, og íslenskir landsliðsmenn eru ósáttir og krefjast þess að hlustað verði á þá.
+
+Nemendur í Hagaskóla afhentu í dag 4.4 milljónir króna til fulltrúa Ísland-Palestínu og Ljósins sem sönnun á félagslega áhuga og stuðningi.
+
+Jóhann Páll Jóhannsson, umhverfis-, orku- og auðlindaráðherra, segir mildi að ekki fór verr þegar eldur braust út á loftslagsráðstefnu Sameinuðu þjóðanna COP30 í gærkvöldi. Enginn slasaðist við eldsvoðann.
+
+Aðgerðir alþjóðlegra ríkja ráðast á íslenda skattkerfið með auknum tollum vegna ágreinings um flutning kísiljárns, og ákvörðun Evrópusambandsins að beita Ísland og Noreg verndartollum gagnvart útflutningi hefur verið harðlega mótmælt hér á landi.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 22 Nov 2025 06:01:16 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/22-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 22 Nov 2025 06:01:16 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
