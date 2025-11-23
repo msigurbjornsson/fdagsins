@@ -262,5 +262,40 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>23.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst:
+
+Áhyggjuefni allra símafyrirtækja í tengslum við bylgju af „spoofing“ svikum sem nú ganga um íslensk númer. Tæknistjóri fjarskiptafyrirtækisins NOVA segir að þessi villa á sér heimildir sé áhyggjuefni allra.
+
+NB8-ríkin ítreka stuðning við Úkraínu eftir símafund með forseta landsins Volodómír Selenskí, þar sem nýjustu vendingar og friðarumleitanir voru ræddar.
+
+Ísland stendur frammi fyrir lækkun greiðslna til handhafa forsetavalds og fær forsetinn heimild til að ráðstafa sérstökum aðstoðarmanni samkvæmt drögum að lagafrumvarpi forsætisráðherra.
+
+Mikil ásókn er í að skoða síðasta hamborgarann sem seldur var á McDonald’s á Íslandi. Eigendur hafa þurft að koma honum fyrir í geymslu vegna mikillar eftirspurnar áhorfenda.
+
+Síðasti dagurinn í loftárásum Ísraelshers á Gasaströndinni varð einn mannskæðasti frá því að vopnahlé tók gildi í byrjun október, með að minnsta kosti tuttugu og fjórum látnum.
+
+Íslenzka hjónin Ásdís María Franklín og Óskar Frímannsson hafa staðið í baráttu við norska kerfið í Fredrikstad til að opna lyfsölu en hafa lent í kærum og saga þeirra er löng.
+
+Eldsvoði varð í fjölbýlishúsi í Seljahverfi í Breiðholti og slökkviliðið var kallað út snemma morguns. Nágranni brugðist hratt við og stöðvaði útbreiðslu eldsins og rúmlega tuttugu íbúum var bjargað innan við fjórar mínútur.
+
+Fjöldi lækna við Sjúkrahúsið á Akureyri hefur sagt upp störfum vegna álags og er sérstaklega erfitt ástand á lyflækningadeildinni þar sem heilbrigðisstarfsmenn hafa meðal annars verið með 17 sólarhringa bakvakt.
+
+Árlegir hausttónleikar Karlakórs Grafarvogs verða haldnir fimmtudaginn 27. nóvember þar sem Bjartmar Guðlaugsson kemur fram með kórnum og flytur meðal annars lagið „Mamma beyglar alltaf munninn með vísan í þýndu kynslóðina“.
+
+Portúgölsku leikkonurnar Catarina Rebelo og Maria João Bastos eru í stórum hlutverkum í nýrri íslensk-portúgalskri sjónvarpsseríu sem heitir Heimaey og var frumsýnd í Sjónvarpi Símans Premium á fimmtudag.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 23 Nov 2025 06:01:45 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/23-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 23 Nov 2025 06:01:45 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
