@@ -297,5 +297,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>24.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst,
+
+Fimm létust í loftárás Ísraels á borgina Beirút í Líbanon í dag, þar á meðal starfsmannastjóri hernaðarvægs Hezbollah. Tveimur dögum áður hafði forseti Líbanon lýst yfir því að hann væri tilbúinn í samningsviðræður við Ísraelsmenn. Nú íhuga Hezbollah-liðar að svara árásinni.
+
+Þrír voru fluttir með þyrlu Landhelgisgæslunnar til Reykjavíkur eftir að tvö umferðarslys urðu á svipuðum tíma á Norðurlandi vestra síðdegis í dag, við Blönduós annars vegar og í Miðfirði hins vegar. Allir hinna slösuðu eru komnir undir læknishendur en enginn er talinn í lífshættu, að sögn viðbragðsaðila.
+
+Bandarískir og úkraínskir erindrekar hafa sett saman ný drög að friðaráætlun, samkvæmt yfirlýsingum erlendra stjórnvalda. Utanríkisráðherra Bandaríkjanna segir að viðræður Úkraínuanna og Bandaríkjamanna í dag hafi skilað árangri, en aftur á móti væri nokkuð í land.
+
+Árekstur þriggja fólksbila varð á Þverárfjallsvegi í Austur-Húnavatnssýslu upp úr klukkan 16 í dag. Tólf manns voru í bílunum. Einn eða fleiri hafa verið fluttir undir læknishendur. Miklar umferðarhöldur eru á Norðurlandi vestra en annað bílslys varð á svæðinu á svipuðum tíma.
+
+Íslendingar í erlendum íþróttakeppnum gerðu góða sigra og viðburði í kvöld. Á meðal þeirra var Jude Bellingham sem tryggði Real Madrid stig í spænsku deildinni, Hákon Arnar Haraldsson og félagar í Lille unnu sterkan 4-2 sigur í frönsku deildinni, og Christian Pulisic skoraði sigurmarkið fyrir AC Milan gegn Inter í ítölsku deildinni.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 24 Nov 2025 06:01:33 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/24-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 24 Nov 2025 06:01:33 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
