@@ -322,5 +322,30 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>25.11.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Stjórn Verkalýðsfélags Vestfirðinga segir alvarlegt ástand blasa við smærri sjávarbyggðum á Vestfjörðum verði afnám línuílvunnunar og skerðingar á byggðakvóta að veruleika. Ástandið er fyrirhugað að afnám línuílvunar, rækjubóta og skerðinga á byggðakvóta, sem gæti haft áhrif á 176 störf.
+
+Á annan tug barna sem dvelja hér á landi á grundvelli fjölskyldusameiningar eru í forsjá stjórnvalda eftir að í ljós hefur komið að börnin hafa engin blóðtengsl við þá einstaklinga sem þau eru að sameinast. Börnin eru frá því að vera á leikskólaaldri og upp í menntaskólaaldur.
+
+Norðurál hefur tilkynnt Orkuveitunni um greiðslufall vegna endurtekinna bilana í álveri þess á Grundartanga. Orkuveitan gerir ráð fyrir lægri rekstrarhagnaði í ár vegna þessa og að arðgreiðslur lækki um tvo milljarða króna á næsta ári. Forstjóri Orkuveitunnar gagnrýnir aðgerðir Norðuráls og segir fyrirtækinu bera að greiða fyrir alla umsama orku óháð því hvort hún sé nýtt.
+
+Kristján Guðmundsson myndlistarmaður er látinn, 84 ára að aldri. Hann var sjálflærður myndlistarmaður og einn stofnenda Gallerís SÚM. Hópurinn að baki SÚM olli straumhvörfum í íslenskri myndlistarsenu á sjöunda áratugnum.
+
+Á Kölfunum í Gufunesi í Reykjavík segjast íbúar upplifa sig sem strandaglópa innan eigin hverfis þar sem bílastæði eru af skornum skammti og engar almenningssamgöngur í boði. Mikil gremja er meðal íbúa eftir að hafa verið sektaðir fyrir að leggja ólöglega.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 25 Nov 2025 06:01:46 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/25-11-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 25 Nov 2025 06:01:46 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
