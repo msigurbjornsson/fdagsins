@@ -347,5 +347,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>02.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Miðflokkurinn heldur áfram að sækja í sig veðrið í skoðanakönnunum og mælist nú með nærri 20 prósenta fylgi. Samanlagt fylgi stjórnarflokkanna er komið undir 50 prósent.
+
+Frá árinu 2010 hefur fjöldi erlendra ríkisborgara á endurhæfingarlífeyri meira en 21 faldast, úr 68 manns í 1.464 manns.
+
+Fjármálaráðherra segir markmiðið að ýta undir skipulag á fjölda lóða sem ríkið er eigandi að á höfuðborgarsvæðinu á komandi misserum. Í síðustu viku gerði ríkið samkomulag við Garðabæ um uppbyggingu á Vífilsstaðasvæðinu en Daði Már Kristófersson fjármálaráðherra segir fjölda annarra sveitarfélaga í viðræðum við ríkið um nokkra reiti til viðbótar.
+
+Nanna Margrét Gunnlaugsdóttir, þingmaður Miðflokks og varaformaður efnahags- og viðskiptanefndar Alþingis, segir ýmislegt athugavert við framkvæmd fyrirhugaðra breytinga á lögum um erfðafjárskatt.
+
+Innanlandsflugi hefur víða verið aflýst á landinu í dag vegna veðurs. Það var þó einni vél flogið austur á Egilsstaði, Boeing 757-flugvél sem er talsvert stærri en þær vélar sem alla jafna leggja leið sína þangað.
+
+21% þeirra sem sinna uppeldi og menntun barna í leikskólum landsins er fyrstu kynslóðar innflytjendur.
+
+Kristrún Frostadóttir forsætisráðherra viðraði í dag þá hugmynd að gera fullveldisdag Íslendinga, 1. desember, að rauðum degi.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 02 Dec 2025 06:01:48 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/02-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 02 Dec 2025 06:01:48 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
