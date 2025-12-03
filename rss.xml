@@ -376,18 +376,5 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
-
-  <item>
-    <title>03.12.2025 - Fréttir dagsins</title>
-    <description>I can search for news from MBL and Vísir, but I am unable to identify Icelandic news from the last 24 hours, sort them by importance, or identify top stories as the available tools do not provide this functionality.</description>
-    <pubDate>Wed, 03 Dec 2025 06:00:38 GMT
-  </pubDate>
-    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/03-12-2025.mp3" type="audio/mpeg" length="1234567"/>
-    <guid isPermaLink="false">Wed, 03 Dec 2025 06:00:38 GMT
-  </guid>
-
-    <itunes:duration>180</itunes:duration>
-  </item>
-
 </channel>
 </rss>
