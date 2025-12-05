@@ -376,5 +376,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>05.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Máli Alberts Guðmundssonar, landsliðsmanns í knattspyrnu, verður ekki áfrýjað. Þetta staðfestir verjandi hans, Vilhjálmur H. Vilhjálmsson.
+Skólameistari Borgarholtsskóla ætlar ekki að hætta þegjandi og hljóðalaust eftir að menntamálaráðherra framlengdi ekki skipunartíma hans. Hann telur alræmt símtal formanns Flokks fólksins hafa átt sinn þátt í atburðarásinnni. Skólameistarar eru furðu lostnir - Formaður Skólameistarafélagsins furðar sig á yfirlýsingu aðstoðarmanns ráðherra í fréttum RÚV í gær.
+Áfallateymi Austurlands hefur verið virkjað fyrir Seyðisfjörð vegna banaslyss á Fjarðarheiði í gær. Bænastund verður haldin í Seyðisfjarðarkirkju klukkan 18:00 á morgun. Þorgeir Arason, sóknarprestur í Egilsstaðaprestakalli, segir áföll hafa dunið á Seyðfirðingum undanfarin misseri.
+Eyjólfur Ármannsson innviðaráðherra viðurkennir að hann hafi ekki lesið skýrslu Rannsóknamiðstöðvar Háskólans á Akureyri um jarðgangakosti á Austurlandi, sem hann vísaði til í kynningu nýrrar samgönguáætlunar í gær.
+Öll loðdýrabú á Suðurlandi eru nú að hætta starfsemi þar sem ekki er lengur rekstrargrundvöllur fyrir búunum. Unnið er að því að slátra öllum eldisdýrum af búunum, þau eru um 30 þúsund. Frá þessu er greint í nýjasta tölublaði Bændablaðsins.
+Færeyska lögþingið samþykkti í dag, með eins atkvæðis mun, að veita konum þungunarrof frítt út 12. viku meðgöngu. Lögin taka gildi 1. júlí, en það er til að gefa heilbrigðisstofnunum svigrúm til að gera ráðstafanir vegna þessa.
+Vladímír Tsjírkín, fyrrverandi yfirmaður landhers rússneska hersins, gagnrýndi framkvæmd innrásarinnar í Úkraínu á upphafsdögum hennar í viðtali við rússneska fréttamiðilinn RBC þann 27. nóvember. Hann sagði að þegar innrásin hófst hafi Rússland „enn og aftur“ ekki verið nægilega vel undirbúið fyrir stríð.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 05 Dec 2025 08:59:51 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/05-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 05 Dec 2025 08:59:51 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
