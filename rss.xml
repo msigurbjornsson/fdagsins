@@ -410,5 +410,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>07.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Formaður Skólameistarafélags Íslands segir vendingar síðustu daga hafa fengið skólameistara víðs vegar um landið til að íhuga stöðu sína. Félagið á fund með mennta- og barnamálaráðherra og krefst formaðurinn skýringa á boðuðum breytingum sem voru rökstuðningur ráðherrans fyrir því að auglýsa tvö embætti skólameistara laus til umsóknar.
+Þórunn Sveinbjarnardóttir, forseti Alþingis, biðst afsökunar á ummælum sínum á Alþingi í gær þar sem hún kallaði stjórnarandstöðuna „andskotans pakk“. Hún kveðst vera mannleg eins og annað fólk.
+Karlmaður um þrítugt var handtekinn fyrr í vikunni í tengslum við rannsókn Lögreglunnar á höfuðborgarsvæðinu á mannsláti í Kópavogi um síðustu helgi.
+Ný þjóðaröryggisstefna Bandaríkjanna undirstrikar heimssýn Donald Trump um að setja Bandaríkin í fyrsta sæti. Í henni ætla stjórnvöld að endurvekja yfirráð sín á vesturhveli jarðar, byggja upp hernaðarmátt í Indlands- og Kyrrahafi og hugsanlega endurmeta samband sitt við Evrópu. Evrópskir bandamenn eru harðlega gagnrýndir í stefnunni, sem var birt aðfaranótt föstudags.
+1,1 milljarði verður veitt í uppbyggingu á neyðarvistun Stuðla og eins milljarðs tímabundin fjárveiting verður veitt til stofnanna sem vinna gegn fíknivanda, samkvæmt breytingartillögum meirihlutans á fjárlögum næsta árs.
+Sumir greinendur hafa hækkað nokkuð verðmöt sín á stóru sjávarútvegsfélögin í Kauphöllinni eftir að veiðigjöld næsta árs voru í birt í gær. Útlit er fyrir að aukning gjaldanna á næsta ári verði „töluvert minni“ en áður var ráðgert.
+Rússar nota á annað þúsund misgamalla og lúinna fraktskipa undir ýmsum hentifánum til að koma olíu og öðrum varningi framhjá viðskipta- og hafnbanni Vesturvelda. Skipin eru illa eða ekki tryggð, bila oft - og eru orðin skotmörk úkraínska hersins.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 07 Dec 2025 06:01:43 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/07-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 07 Dec 2025 06:01:43 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
