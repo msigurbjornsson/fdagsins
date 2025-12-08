@@ -432,5 +432,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>08.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Krefjast þess að samgönguáætlun verði endurskoðuð
+Kennslustjóri sérnáms segir hættu á að skortur verði á læknum í ákveðnum sérgreinum bregðist stjórnvöld ekki við breyttum reglum í Svíþjóð og Noregi.
+Í síðustu viku höfðu 369 leitarbeiðnir borist lögreglu vegna týndra barna.
+Ekið var á hjólreiðamann á Sauðárkróki seinnipartinn í gær nálægt gatnamótum Skagfirðingabrautar og Sauðárkróksbrautar. Um alvarlegt slys var að ræða.
+Varað er við því í nýrri þjóðaröryggisstefnu Bandaríkjanna að Evrópa standi frammi fyrir útrýmingu siðmenningar.
+Seðlabankastjóri býst við að verðbólga verði komin mjög nálægt markmiði tveggja komma fimm prósenta markmiði bankans á næsta ári.
+Hinn 26 ára gamli Lando Norris, ökumaður McLaren, er heimsmeistari ökumanna í Formúlu 1 árið 2025 og í fyrsta skipti á sínum ferli.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 08 Dec 2025 06:01:09 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/08-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 08 Dec 2025 06:01:09 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
