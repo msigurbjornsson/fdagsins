@@ -453,5 +453,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>09.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Hluthafar Íslandsbanka, sem eiga meira en fimm prósent hlutafjár í bankanum, hafa krafist þess að boðað verði til stjórnarkjörs. Krafan barst sama dag og stjórnarformaðurinn tilkynnti að hún myndi ekki sækjast eftir endurkjöri.
+Breikkun Suðurlandsvegar meðfram Rauðavatni og Norðlingaholti frestast fram á næsta áratug, sem og breikkun Reykjanesbrautar milli Njarðvíkur og Leifsstöðvar. Endurbætur á Reykjanesbraut um Hafnarfjörð bíða og einnig gerð mislægra gatnamót við Bústaðaveg.
+Ópíóða- og kókaínfíkn er að aukast og reglulega kemur fólk sem reykir kókaín sem er enn hættulegra að sögn formanns Matthildarsamtakanna. Hún telur núverandi stefnu stjórnvalda í málaflokknum hafa gengið sér til húðar því þrátt fyrir met í haldlagningu vímuefna séu vísbendingar um að bæði framboð og eftirspurn hafi aukist á árinu.
+Tæplega tvö hundruð þúsund vottorð voru gefin út af Landspítalanum og heilsugæslum á höfuðborgarsvæðinu árið 2023, en þau voru mun fleiri á landsvísu. Heilbrigðisráðherra vill skoða hvernig fækka megi útgáfum vottorða og tilvísana til að draga úr skriffinnsku.
+Háskólinn á Akureyri og lögregluskólinn í Reykjavík eru með til skoðunar nafnlausar ábendingar kvenkyns nemenda á hendur hóp nokkurra lögreglunema um að þeir hafi stundað það að deila myndum af bekkjarsystrum sínum á samfélagsmiðlinum Snapchat.
+Lögmaður sem er laus úr rúmlega tveggja vikna einangrun í gæsluvarðhaldi telur lögreglu herja á sig til að kortleggja betur albanska glæpahópa hér á landi. Hann segist اندlega í molum eftir dvölina í fangelsinu á Hólmsheiði þar sem hann þó kynntist besta fólki í heimi, fangavörðunum.
+Dómsmálaráðherra hefur birt áform um lagasetningu vegna sveitarstjórnarkosninga í Grindavík í vor. Áformað er að fara þá leið að þeir sem áttu lögheimili í Grindavíkurbæ 9. nóvember 2023 hafi val um að kjósa í Grindavík eða því sveitarfélagi sem þeir eiga nú lögheimili í.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 09 Dec 2025 06:02:07 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/09-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 09 Dec 2025 06:02:07 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
