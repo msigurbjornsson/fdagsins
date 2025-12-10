@@ -475,5 +475,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>10.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Sæðisgjafi með lífshættulegan genagalla gat 197 börn - sæðið meðal annars selt til Íslands
+Umræða um frumvarp til laga um kílómetragjald á ökutæki stóð yfir í um níu klukkustundir. Enn voru sautján eftir á mælendaskrá þegar málinu var frestað rétt fyrir miðnætti.
+Innviðaráðherra hyggst festa Reykjavíkurflugvöll í sessi og byggja nýja flugstöð. Forsætisráðherra segir ekki hægt að láta flugvöllinn grotna niður meðan ekki finnist aðrir kostir. Forstjóri Icelandair segir að ekki muni standa á félaginu að fara í samstarf við stjórnvöld um uppbyggingu.
+Þórunn Sveinbjarnardóttir, forseti Alþingis, baðst afsökunar á þingfundi í morgun fyrir að láta óviðurkvæmileg orð falla um stjórnarandstöðuna á föstudag.
+Óvenjumörg alvarleg umferðarslys hafa orðið síðustu vikur sem aðalvarðstjóri umferðardeildar lögreglunnar á höfuðborgarsvæðinu segir miður. Aukið stress skili sér í glæfralegum akstri og allt of lítið sé um að gangandi vegfarendur noti endurskinsmerki.
+Dagmar Ýr Stefánsdóttir, sveitarstjóri Múlaþings, segir nýja samgönguáætlun ríkisstjórnarinnar mikil vonbrigði fyrir sveitarfélagið og Austurland allt.
+Íslenska hugbúnaðarfyrirtækið LS Retail hefur verið yfirtekið af framtakssjóði í rekstri norræna fjárfestingafélagsins Axcel. Þetta er fyrsta fjárfesting Axcel hér á landi en seljendur eru bandarískt félag sem keypti LS Retail fyrir fáeinum árum.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 10 Dec 2025 06:01:39 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/10-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 10 Dec 2025 06:01:39 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
