@@ -497,5 +497,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>11.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Fjögur börn voru getin hér á landi með sæði dansks manns. Sjaldgæf og hættuleg genastökkbreyting fannst í erfðaefni hans sem getur valdið krabbameini. Ekki er vitað hvort þau beri stökkbreytinguna. Þetta kemur fram í umfjöllun Ríkisútvarpsins.
+RÚV tekur ekki þátt í Eurovision árið 2026. Þetta kemur fram í fréttatilkynningu sem send var út eftir fund stjórnar RÚV í dag.
+Hæstiréttur hefur sýknað Arion banka af öllum kröfum neytenda í máli sem sneri að skilmálum í lánasamningi um verðtryggt lán með breytilegum vöxtum. Um eitt vaxtamálanna svokölluðu var að ræða og Arion banki taldi 4,5 milljarða króna vera undir.
+Karlmaður um þrítugt hefur verið úrskurðaður í vikulangt gæsluvarðhald á grundvelli rannsóknarhagsmuna vegna rannsóknar lögreglu á mannsláti í heimahúsi á Kársnesi í Kópavogi í síðustu viku.
+Kvikusöfnun undir Svartsengi er svipuð og hefur verið síðustu vikur. Því eru áfram auknar líkur á kvikuhlaupi og eldgosi. Þetta segir í tilkynningu Veðurstofunnar.
+Ekki króna fékkst upp í 2,6 milljarða króna gjaldþrot ítalska verktakafyrirtækisins Rizzani de Eccher Ísland ehf. sem kalla mætti martröð Kópavogsbæjar eftir deilur við byggingu Barnaskóla Kársness. Undirverktakar sitja eftir með sárt ennið og ógreidda reikninga. Kópavogsbær undirbýr skaðabótamál á hendur móðurfyrirtækinu.
+Gular veðurviðvaranir taka gildi klukkan sex í fyrramálið fyrir Suður- og Suðausturland vegna austan- og norðaustanstorms með hvössum hviðum sem slegið geta í 35 metra á sekúndu.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 11 Dec 2025 06:01:27 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/11-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 11 Dec 2025 06:01:27 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
