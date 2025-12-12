@@ -519,5 +519,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>12.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+„Ok flott þá gerum við þetta“ - Þorsteinn Már og týndu skilaboðin til Namibíu
+Allt að helmingur barna sem eru á leikskólum í borginni hefur verið fjarverandi síðustu vikur vegna veikinda. Leikskólastjóri segist ekki muna eftir öðru eins á rúmlega þrjátíu ára starfsferli.
+Síðasti tvöfaldi kaflinn milli Hafnarfjarðar og Reykjanesbæjar vígður
+Landsréttur þyngdi í dag dóm yfir þeim Amir Ben Abdallah og Mohamed Ali Chagra fyrir nauðgun. Þeir voru báðir dæmdir í þriggja ára fangelsi en höfðu áður hlotið tveggja og hálfs árs dóm í Héraðsdómi Reykjavíkur.
+Formaður Tilveru segir erfiðar tilfinningar vakna þegar börn sem getin eru með gjafarsæði gætu átt hundruð blóðskyldra einstaklinga. Heilbrigðisráðherra segir þetta vera sláandi dæmi, meira eftirlit þurfi og frumvarp verði á næsta þingi.
+Varaformaður Miðflokksins segir að hagsmunum Íslands sé betur borgið utan EES verði ekki hægt að setja bremsu á fjölgun útlendinga hér á landi. Dómsmálaráðherra segir það árás gegn íslensku efnahagslífi.
+Fjármála- og efnahagsráðherra telur að breyting á kílómetragjaldi ætti ekki að hafa bein áhrif á ferðaþjónustuna eða rekstur bifreiða. Forstjóri Bílaleigu Akureyrar segir breytinguna auka gjöld á bílaleigur um 7,5 milljarða.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 12 Dec 2025 06:01:29 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/12-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 12 Dec 2025 06:01:29 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
