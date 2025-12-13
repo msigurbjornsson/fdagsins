@@ -541,5 +541,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>13.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Óprúttnum aðilum, sem gerðu tölvuárás á kerfi Grundarheimila í vikunni, tókst að afrita viðkvæmar persónuupplýsingar um skjólstæðinga áður en árásin uppgötvaðist. Meðal þeirra gagna voru upplýsingar um heilsufar, sem tengjast umönnun og veittri heilbrigðisþjónustu á heimilunum.
+Svandís Svavarsdóttir, fyrrverandi ráðherra, hyggst ekki sækjast eftir endurkjöri sem formaður Vinstri grænna á næsta landsfundi flokksins. Hún hefur verið formaður í rúmt ár.
+86 voru innlagðir á bráðamóttöku Landspítalans síðdegis, þar sem aðeins er pláss fyrir 36. Rafn Benediktsson, framkvæmdastjóri bráða-, lyflækninga og endurhæfingarþjónustu Landspítalans, segir talsvert meira álag á bráðamóttökunni en starfsfólk á að venjast.
+Umhverfis- og orkustofnun hefur endurútgefið virkjunarleyfi vegna Hvammsvirkjunar. Það er eftir að fyrra leyfið var fellt úr gildi með dómi Hæstaréttar frá 9. júlí. Nú mun Landsvirkjun sækja um framkvæmdaleyfi að virkjuninni sjálfri, þar sem undirbúningsvinna er sögð langt komin.
+Dagur Þór Hjartarson hefur verið dæmdur í fimm og hálfs árs fangelsi fyrir tilraun til manndráps þegar hann stakk annan karlmann í Mjóddinni í Reykjavík í júlí í sumar. Hinn karlmaðurinn særðist lífshættulega en sá átti upphafið að átökunum með að kýla Dag með krepptum hnefa í andlitið. Dagur Þór bar fyrir sig neyðarvörn en dómurinn keypti ekki þær skýringar.
+Dæmi eru um að skipulagðir glæpahópar beiti lögregluna ofbeldi og flytji inn mannskap til að fremja skemmdarverk á eigum lögreglumanna. Lögreglumenn hafa slasast alvarlega í vinnunni og hlotið varanlega örorku.
+Slysavarnafélagið Landsbjörg lýsir áhyggjum af dvínandi fjarskiptaöryggi Íslendinga þar sem slökkt hefur verið á hluta 2G og 3G farsímasenda. Svæði sem áður voru vel tengd séu nú með öllu sambandslaus. Félagið skorar á stjórnvöld að leggjast með sér á árarnar og viðhalda talstöðvakerfi landsins.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 13 Dec 2025 06:02:15 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/13-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 13 Dec 2025 06:02:15 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
