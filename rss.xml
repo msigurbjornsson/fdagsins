@@ -562,5 +562,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>14.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Runólfur Pálsson forstjóri Landspítalans segir aðstæður á spítalanum afar bágbornar til að takast á við þann fjölda sem þangað leitar núna vegna inflúensu. Auk þess séu um hundrað manns með samþykkt heilsu- og færnimat á spítalanum sem bíði þess að komast á hjúkrunarheimili. Bruni á Hrafnistu í nóvember valdi enn töfum.
+Lögreglan lagði í haust hald á hátt í 15 kíló af ketamíni og um fimm kíló af MDMA-kristöllum eftir eftirför í kjölfar ábendingar frá tollgæslunni. Götuvirði þeirra er talið nema um 374 milljónum króna.
+Fleiri gætu frestað eða sleppt að leysa út lyf af fjárhagsástæðum vegna breytinga sem verða á greiðsluþátttöku fólks í lyfjakostnaði um áramótin að mati hagfræðings ÖBÍ réttindasamtaka. Boðaðar breytingar skjóti skökku við í því efnahagsumhverfi sem nú sé.
+Sameiningu Dalabyggðar og Húnaþings vestra var hafnað í íbúakosningu sem fór fram 28. nóvember – 13. desember 2025.
+Á félagsfundi Pírata í Reykjavík í dag var samþykkt einróma að veita stjórn félagsins umboð til að ganga til viðræðna um sameiginlegt framboð til borgarstjórnar vorið 2026.
+Tveir voru fluttir á slysadeild Landspítalans eftir umferðarslys á Reykjavegi í Biskupstungum. Þyrla Landhelgisgæslunnar var kölluð út að beiðni Lögreglunnar á Suðurlandi.
+Starfsfólk hamborgarastaðarins 2Guys við Hlemm neitaði karlmanni og samfylgdarfólki hans um þjónustu um síðustu helgi vegna hakakross-húðflúrs í andliti mannsins. Fólkið brást illa við og gekk berserksgang við afgreiðsluna.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 14 Dec 2025 06:01:46 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/14-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 14 Dec 2025 06:01:46 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
