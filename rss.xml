@@ -583,5 +583,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>15.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Það stefnir í þriggja til fjögurra milljarða niðurskurð á Landspítala, sem er að miklu leyti til kominn vegna kjarasamninga lækna sem spítalinn segir vanfjármagnaða. Þá gerir fjárlagafrumvarpið ekki ráð fyrir rekstri stækkunar bráðamóttökunnar.
+Sextán voru drepnir í skotárásinni á Bondi-ströndinni í útjaðri Sydney í Ástralíu í dag, þar á meðal eitt barn. Í það minnsta 4 börn særðust í árásinni en alls liggja 40 særðir inni á spítala. Þetta segir ástralska lögreglan.
+Íslenskur nemandi við Brown-háskóla hefði mætt í kennslustund í kvöld í sömu skólastofu og mannskæð skotárás var framin í gær, en hún sækir flesta sína tíma í umræddri stofu. Öll kennsla og lokapróf hafa nú verið felld niður vegna árásarinnar. Hún segir samfélagið í Providence í áfalli og lýsir flótta vinar síns af háskólasvæðinu eftir að hafa heyrt skothvelli frá stofunni.
+Leikstjórinn Rob Reiner fannst látinn á heimili sínu í Los Angeles ásamt eiginkonu sinni. Talið er að þau hafi verið myrt.
+Vilji kjósenda í Dalabyggð og Húnaþingi vestra var afdráttarlaus, þegar þeir höfnuðu sameiningu sveitarfélaganna, segja sveitarstjórar sveitarfélaganna. Viðræður um sameiningu hafa staðið frá síðasta kjörtímabili og íbúakosningum, sem hófust í lok nóvember, lauk í gær. Kjörsókn var 60% í Dalabyggð og tæplega 62% í Húnaþingi vestra.
+Úthlutun Matargjafa Akureyrar og nágrennis og NorðurHjálpar byrjar á morgun og stendur í viku. Sigrún Steinarsdóttir, framkvæmdastýra Matargjafar Akureyrar, segir fjölgun beiðna. Sorglegt sé að sjá fjölgun lífeyrisþega meðal þeirra sem þiggja aðstoð.
+Ekkert er því til fyrirstöðu að Ísland taki þátt í sameiginlegum drónakaupum hinna Norðurlandanna sé vilji til þess. Utanríkisráðuneytið fylgist með framvindu kaupanna.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 15 Dec 2025 06:01:48 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/15-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 15 Dec 2025 06:01:48 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
