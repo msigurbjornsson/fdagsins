@@ -605,5 +605,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>16.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Snjóflóðaeftirlit í Súðavík, og víða um land, var ekki í fullnægjandi horfi og ekki samkvæmt áherslum yfirvalda.
+Félag bráðalækna telur vistun sjúklinga í bílskúr bráðamóttökunnar vera kerfisbundið brot á mannréttindum þeirra.
+Frumvarp um kílómetragjald var samþykkt í annarri umræðu á Alþingi í dag, eftir tveggja klukkutíma atkvæðagreiðslu.
+Óvíst er hvort Guðmundur Ingi Kristinsson menntamálaráðherra muni snúa aftur til starfa í menntamálaráðuneytið eftir að veikindaleyfi hans nú lýkur.
+Nýskráningar bíla í nóvember voru tæplega þrefalt fleiri en í sama mánuði í fyrra. Mikla aukningu má líklegast rekja til hækkunar vörugjalda um áramótin að sögn framkvæmdastjóra Bílgreinasambandsins.
+Meirhluti þingmanna greiddi atkvæði með frumvarpi Ingu Sæland um eingreiðslu til þeirra sem hafa fengið greiddan lífeyri. Rúmlega 37 þúsund manns eiga von á greiðslu fyrir jól.
+Aðalsteinn Leifsson, aðstoðarmaður utanríkisráðherra og varaþingmaður Viðreisnar, gefur kost á sér til að leiða lista Viðreisnar í borgarstjórnarkosningum í Reykjavík í vor.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 16 Dec 2025 06:01:19 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/16-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 16 Dec 2025 06:01:19 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
