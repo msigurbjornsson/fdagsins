@@ -627,5 +627,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>17.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Margrét Halla Hansdóttir Löf hefur verið dæmd til 16 ára fangelsisvistar fyrir að verða föður sínum að bana og stórfellda líkamsárás gagnvart móður sinni á heimili þeirra að Súlunesi í Garðabæ í apríl.
+Fulltrúar Íslands, Noregs, Bretlands og Færeyja skrifuðu undir samkomulag um skiptingu og stjórn makrílsstofnsins í morgun. Þetta er í fyrsta skipti sem íslensk stjórnvöld gangast undir samkomulag um makríl frá því að veiðar á honum hófust í lögsögunni árið 2007.
+Minningarstundin Drengirnir okkar fór fram við Reykjavíkurtjörn í kvöld. Þar var kveikt á um 200 kertum til minningar um unga drengi sem hafa látist í baráttu við fíknisjúkdóm. Skipuleggjandi og aðstandandi drengs sem lést á árinu segir algjört úrræðaleysi í málaflokknum.
+Þingmenn héldu áfram að takast á um bandorminn svokallaða í þinginu í dag en aðrar umræður hafa nú staðið í vel á annan tug klukkustunda. Það þýðir að aðrar umræður eru orðnar lengri en aðrar umræður um bandorma síðustu tíu þinga á undan, samanlagt.
+Dóra Björt Guðjónsdóttir borgarfulltrúi hefur sagt skilið við borgarstjórnarflokk Pírata og gengið til liðs við Samfylkinguna. Meirihlutinn í borgarstjórn mun áfram vinna saman. Alexandra Briem verður oddviti Pírata og formaður borgarráðs.
+Landsréttur hefur ógilt sýknudóm konu, sem ákærð var fyrir að hafa fengið erlendan sérfræðing til að skera forhúð af getnaðarlim sautján mánaða sonar hennar. Landsréttur taldið að dómari við Héraðsdóm Norðurlands eystra hefði ekki getað lagt mat á það hvort umskurnin hefði ógnað lífi eða velferð drengsins á aðkomu sérfróðs meðdómsmanns. Málið fer því aftur til meðferðar í héraðsdómi.
+Foreldrar ungra manna sem borgað hafa Íslendingi margar milljónir eftir loforð um að þeir yrðu ríkir með gervigreindarmarkaðssetningu hafa miklar áhyggjur af sonum sínum. Nýjasta útspil mannsins er sala á myllumerkjum, sem hann segir fólk geta grætt fúlgur fjár á.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 17 Dec 2025 06:02:00 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/17-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 17 Dec 2025 06:02:00 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
