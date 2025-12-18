@@ -649,5 +649,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>18.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Þingmenn stjórnarandstöðunnar kröfðust þess í kvöld að frumvarp um kílómetragjaldið yrði sent aftur til efnahags- og viðskiptanefndar þingsins eftir að Sigmundur Ernir Rúnarsson þingmaður Samfylkingarinnar sendi öllum nefndarmönnum tölvupóst sem ætlaður var framkvæmdastjóra bílaleigu þar sem hann sagðist myndu krefjast þess að útfærslur yrðu endurmetnar. Sjálfur segir hann ekkert í póstinum sem ekki þoli dagsljósið.
+Forseti Alþingis hefur ákveðið að starfsáætlun Alþingis sé fallin úr gildi frá og með deginum í dag. Samkvæmt henni átti síðasti þingfundur vetrarins að fara fram í dag.
+Karlmaður sem er í haldi lögreglu vegna mannsláts á Kársnesi í Kópavogi er grunaður um að hafa drepið mann sem fannst látinn á heimili sínu í bænum þann 30. nóvember. Lögregla óskaði fyrr í dag eftir myndefni sem vegfarendur kunna að búa yfir úr hverfinu föstudaginn 28. nóvember frá 18:00 til miðnættis.
+Fimm klukkustunda rafmagnsleysi á Tálknafirði á fimmtudag varð til þess að tuttugu þúsund fiskar í landeldi Tungusilungs drápust. Rekstrarstjóri Tungusilungs, Ragnar Þór Marinósson eða Raggi bleikja, segir bilun hafa orðið þegar rafmagni var komið á aftur.
+Háskóli Íslands hefur innleitt ný fjöldatakmörk nemenda utan EES í einstaka námsleiðir. Til dæmis verða á næsta ári ekki teknir inn fleiri en 50 nemendur frá löndum utan EES í íslensku sem annað mál. Það er ein vinsælasta námsleið skólans, alls sóttu 800 um í það og íslenskustoð síðasta vor fyrir núverandi skólaár.
+Kona, sem í gær var dæmd fyrir að verða föður sínum að bana, beitti foreldra sína ofbeldi mánuðum saman. Læknum og heilbrigðisstarfsmönnum var óheimilt að tilkynna það til lögreglu. Formaður Læknafélagsins vill rýmri heimild til að tilkynna ofbeldismál.
+Vestmannaeyjastrengir 4 og 5 voru teknir í rekstur í dag. Í tilkynningu frá Landsneti segir að það sé sögulegt skref og að með tilkomu strengjanna aukist afhendingaröryggi raforku til Vestmannaeyja. Nú sjái þrír öflugir sæstrengir Vestmannaeyjum fyrir rafmagni.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 18 Dec 2025 06:02:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/18-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 18 Dec 2025 06:02:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
