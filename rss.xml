@@ -670,5 +670,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>19.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Síminn hefur undirritað samninga um kaup á öllu hlutafé í Opnum kerfum og Öryggismiðstöð Íslands. Þetta kom fram í tilkynningu frá Símanum til fjölmiðla.
+Fyrstu fjárlög ríkisstjórnarinnar voru samþykkt í dag stuttu eftir klukkan sex og er Alþingi því komið í jólafrí.
+Frumvarp um kílómetragjald er nú orðið að lögum. Samkvæmt lögunum má nú leggja kílómetragjald á öll faratæki en hingað til hefur það aðeins verið lagt á raf- og tvinnbíla.
+Steinunn Þórðardóttir formaður Læknafélagsins kallar eftir því að þagnarskylda lækna og annars heilbrigðisstarfsfólks verði skýrð frekar og sérstaklega með tilliti til fólks í viðkvæmri stöðu, eins og fólks með heilabilun.
+Mæðrum, sem Barnavernd í Kópavogi hefur haft afskipti af vegna neyslu fíkniefna á meðgöngu, hefur fjölgað á árinu. Teymisstjóri hjá barnavernd segir ófædd börnin geta verið í verulegri lífshættu.
+Mikil sjávarflóð voru við Vík í Mýrdal í nótt og eru bæjarbúar í viðbragðsstöðu fyrir kvöldið.
+Åge Hareide, fyrrum landsliðsþjálfari Íslands í fótbolta, er látinn 72 ára að aldri. Hann hafði glímt við krabbamein í heila síðustu mánuði.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 19 Dec 2025 06:01:29 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/19-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 19 Dec 2025 06:01:29 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
