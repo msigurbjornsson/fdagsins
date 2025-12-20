@@ -691,5 +691,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>20.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Tvær íslenskar konur, táningsstúlka og eldri kona, létust í bílslysi í Suður-Afríku á miðvikudag. Karlmaður slasaðist lífshættulega í slysinu og liggur á sjúkrahúsi ytra.
+Opinber framlög til einkarekinna fjölmiðla næstum tvöfaldast á þarnæsta ári gangi aðgerðaráætlun menningarráðherra eftir. Umsvif RÚV á auglýsingamarkaði verða takmörkuð og stofnunin þarf ekki lengur að reka tvær útvarpsstöðvar.
+Bóndi sem Halla Tómasdóttir forseti Íslands var send í sveit til í æsku braut á henni kynferðislega. Halla opnaði sig ekki um brotin fyrr en hún var 23 ára. Hún veltir fyrir sér hvort sáttamiðlun væri betur til þess fallin að gera upp kynferðisbrotamál en réttarkerfið.
+Forstjóri Orkunnar segir að dæluverð eldsneytis muni lækka strax um áramótin í kjölfar þess að frumvarp um kílómetragjald á ökutæki var samþykkt á Alþingi í gær. Neytendur þurfi ekki að hafa áhyggjur af því að lagabreytingin verði nýtt til að auka álögur.
+Sjúkratryggingar og SÁÁ hafa undirritað nýjan heildarsamning um meðferðir við fíknisjúkdómum og er hann sagður marka tímamót í íslenskri heilbrigðisþjónustu. Meðferð við spilafíkn er í fyrsta sinn niðurgreidd af Sjúkratryggingum.
+Ástæðan fyrir þessu mikla magni af kókaíni sem nú er í umferð, ekki bara á Íslandi heldur um alla Evrópu, er sögð vera áhersla bandarískra stjórnvalda á baráttuna við fentanyl-faraldurinn.
+Heilsu norsku krónprinsessunnar Mette-Marit hefur hrakað gríðarlega vegna lungnasjúkdóms hennar. Ástandið er nú svo alvarlegt að hún mun líklega þurfa á lungnaígræðslu að halda, sem er stór og hættuleg aðgerð að sögn lækna hennar.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 20 Dec 2025 06:01:43 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/20-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 20 Dec 2025 06:01:43 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
