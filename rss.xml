@@ -713,5 +713,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>21.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Íslensku konurnar sem að létust í alvarlegu umferðaslysi í Suður Afríku á miðvikudag voru systir og föðuramma drengs sem staddur er í meðferð á meðferðarheimilinu Healing Wings. Faðir hans liggur þungt haldinn á sjúkrahúsi í Jóhannesarborg.
+Einar Freyr Elínarson, sveitarstjóri Mýrdalshrepps, segir þjóðveginum og innviðum sveitarfélagsins stafa veruleg ógn af miklum sjógangi við Vík í Mýrdal. Verði ekki brugðist við haldi landrof áfram og fjara færist nær þjóðveginum.
+Starfsmaður Útlendingastofnunar er sagður hafa deilt nöfnum skjólstæðinga sinna með fólki á Instagram. Það er brot á þagnarskyldu umrædds starfsmanns og er talið alvarlegt brot gegn skyldum embættismanna.
+Heilbrigðisráðherra segir vistun sjúklinga í bílakjallara örþrifaráð sem eigi ekki að þurfa að grípa til. Unnið sé að því að setja á laggirnar viðbragðsteymi ef bráðamóttaka Landspítala verður yfirfull.
+Eldsneytisverð hjá olíufélögunum lækkar um áramót en óvíst er hve mikið. FÍB segir lækkunina eiga að vera áttatíu til níutíu krónur á lítrann. Framkvæmdastjóri Orkunnar segir að líta beri á fleiri breytur en olíugjald við útreikning.
+Þrír erlendir ríkisborgarar munu þurfa að dúsa í gæsluvarðhaldi fram yfir áramót þar sem lögregla grunar þá um hafa komið hingað til lands til að fremja auðgunarbrot og hafa háar fjárhæðir af öldruðu fólki.
+Það þarf ofsaveður til að heimilislausir á höfuðborgarsvæðinu geti leitað skjóls á öllum tímum dags eftir að þjónusta skertist vegna húsnæðisvanda. Rauði krossinn segir áhrifin geta orðið margvísleg.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 21 Dec 2025 06:01:17 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/21-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 21 Dec 2025 06:01:17 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
