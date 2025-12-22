@@ -734,5 +734,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>22.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Söfnun hefur verið hrundið af stað fyrir fjölskyldu íslensku stúlkunnar sem lést í bílslysi í Suður-Afríku á miðvikudag. Vinkona móður stúlkunnar, sem og bróður hennar hvern hún var að heimsækja, stendur fyrir söfnuninni.
+Eyjólfur Ármannsson, innviðaráðherra, er farinn í tímabundið fæðingarorlof. Inga Sæland, formaður Flokks fólksins og félags- og húsnæðismálaráðherra, mun leysa Eyjólf af á meðan.
+Framkvæmdastjórar olíufélaganna vilja ekki segja nákvæmlega hve mikið eldsneytislítrinn mun lækka um áramót þegar olíugjald fellur niður. Olís segir lækkunina muna nema tugum króna og N1 gerir ráð fyrir að hún verði í samræmi við útreikning Félags íslenskra bifreiðaeigenda (FÍB).
+Sveitarstjóri Mýrdalshrepps segir að sveitarfélagið muni senda kvörtun til umboðsmanns Alþingis vegna viðbrögðum Vegagerðarinnar við sjávarflóðum sem hann segir lengi hafa ógnað byggðinni í Vík.
+Alma Möller heilbrigðisráðherra segir að skoðað verði að setja verklagsreglur um hvenær læknar megi rjúfa trúnað við sjúklinga.
+Þyrlusveit Landhelgisgæslunnar var kölluð út rétt fyrir klukkan þrjú vegna bílveltu á þjóðveginum skammt frá Kirkjubæjarklaustri. Fjórir erlendir ferðamenn hafa verið fluttir á sjúkrahús og er einn þeirra alvarlega slasaður.
+Mennta- og barnamálaráðuneytið hefur varið 16,5 milljónum króna í almannatengslaþjónustu á þessu ári. Það er ríflega áttfalt meira en ráðuneytið varði í slíka þjónustu í fyrra.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 22 Dec 2025 06:01:32 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/22-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 22 Dec 2025 06:01:32 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
