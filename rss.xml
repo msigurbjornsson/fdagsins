@@ -756,5 +756,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>23.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Verðbólga mælist nú 4,5 prósent, miðað við 3,7 prósent í nóvember.
+Veðurviðvaranir munu einkenna jólahátíðina í flestum landshlutum og munu þær fyrstu taka gildi eftir hádegi á morgun á Breiðafirði og Vestfjörðum. Í kjölfarið dreifast þær yfir landið og ná hámæli á aðfangadag. Hiti getur hæst náð átján stigum, að sögn Veðurstofunnar.
+Hæstiréttur hefur sýknað Landsbankann af öllum kröfum í tveimur málum sem neytendur höfðuðu á hendur bankanum vegna tiltekinna skilmála í lánasamningum. Hæstiréttur taldi skilmálana ólögmæta en að neytendur hefðu ekki orðið fyrir tjóni.
+Fjölskylda drengs sem er í fíknimeðferð í Suður-Afríku var nýkomin þangað til að vera með honum yfir jólin, þegar ógæfan reið yfir og hún lenti í bílslysi. Amma drengsins og þrettán ára systir hans létu lífið. Vinkona móður barnanna segir síðustu daga hafa verið óraunverulega.
+Breskt félag hefur stefnt Samherja fyrir hönd ríkisfyrirtækis í Namibíu um hundrað og fjörutíu milljarða íslenskra króna og verður dæmt í málinu í Bretlandi. Forstjóri fyrirtækisins segir að þegar hafi verið gripið til varnar í Bretlandi. Upphæðin sé súrealísk og hærri en eigið fé Samherja.
+Óbyggðanefnd hefur úrskurðað að úteyjar og sker í kringum Vestmannaeyjar, að Surtsey frátaldri, tilheyri í raun Vestmannaeyjabæ. Bæjarstjóri Vestmannaeyjabæjar segir úrskurðinn fullnaðarsigur í stórskrýtnu máli.
+Ákveðið hefur verið að sameina Farice ehf., Öryggisfjarskipti ehf. og tæknihluta Neyðarlínunnar ohf. Félögin þrjú sem öll eru í eigu ríkisins, sinna hvert um sig lykilhlutverkum í rekstri alþjóðlegra og innlendra fjarskipta, neyðarsamskipta, öryggiskerfa og þjónustu við almenning, viðbragðsaðila og viðskiptavini.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 23 Dec 2025 06:01:15 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/23-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 23 Dec 2025 06:01:15 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
