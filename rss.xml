@@ -806,5 +806,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>25.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Hitastig mældist 19,8°C á Seyðisfirði á aðfangadag. Með þessum hita er fallið Íslandsmet í hita í desembermánuði. Einnig mældist hiti 19,7°C að Bakkagerði á Borgarfirði eystra.
+Grjóthrun varð hjá Holtsnúpi undir Eyjafjöllum í morgun. Einn bíll lenti á grjóti en enginn slys urðu á fólki.
+Grindvíkingar láta hremmingar undanfarinna ára ekki á sig fá og halda jólin margir hverjir heima. Slökkviliðsstjórinn segir að það sé jólaandi í bænum og Grindvíkingi finnst gott að geta verið heima á jólunum í fyrsta sinn í tvö ár.
+Hæstiréttur hefur samþykkt áfrýjunarbeiðni foreldra ungs skipverja sem drukknaði árið 2020 um skaðabótaskyldu ónafngreindrar útgerðar og TM trygginga hf.
+Vólódímír Selenskí Úkraínuforseti greindi frá helstu atriðum í tuttugu punkta drögum að friðarsamkomulagi sem Úkraína og Bandaríkin hafa til skoðunar. Forsetinn trúir því að drögin gætu orðið grunnurinn að friðarsamkomulagi þeirra við Rússa.
+Lög sem veita dómsmálaráðherra tímabundnar heimildir til uppbyggingar varnargarða fyrir mikilvæga innviði á Reykjanesi renna sitt skeið í árslok. Það á einnig við um aðrar sambærilegar framkvæmdir í þágu almannavarna. Ný löggjöf er í undirbúningi.
+Arion banki varar við svikaherferð þar sem svikarar senda smáskilaboð sem virðast tengjast pakka eða sendingu. Slík skilaboð geta nú borist úr íslenskum símanúmerum.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 25 Dec 2025 06:01:32 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/25-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 25 Dec 2025 06:01:32 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
