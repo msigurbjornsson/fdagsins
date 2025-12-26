@@ -828,5 +828,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>26.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Það blés hraustlega á landinu í gær og í nótt, sérstaklega um landið norðvestanvert. Sunnanáttinni fylgdu mikil hlýindi og í gærkvöldi var desemberhitametið slegið í hnjúkaþey á Seyðisfirði en þar komst hitinn í 19,8 stig.
+Miðflokkurinn tapaði rúmum 130 milljónum króna á árinu 2024. Flokkurinn stóð uppi með neikvætt eigið fé eftir kosningaárið. Skuldir jukust umtalsvert en í leiðinni fjárframlög lögaðila til flokksins.
+Starfsmenn Orkubús Vestfjarða eru búnir að koma á rafmagni á Dýrafirði á ný. Rafmagnslaust varð á hátt í tíu sveitabæjum eftir að rafstrengur fór í sundur í Hjarðadalsá á jólanótt.
+Eigi heilbrigðisstarfsmenn erfitt með að túlka ákvæði laga um þagnarskyldu með réttum hætti er tilefni til að skýra það frekar. Það er afstaða Landspítalans samkvæmt svörum. Einnig er það afstaða spítalans að vert sé að skerpa á verklagi spítalans í heimilisofbeldismálum og að það eigi að vera samræmt þvert á alla heilbrigðisþjónustu.
+Heldur færri ferðamenn verða hér á landi yfir jól og áramót heldur en í fyrra. Gistinóttum hefur fækkað og framboð flugsæta til landsins hefur dregist saman um allt að 12 prósent að sögn Jóhannesar Þórs Skúlasonar, framkvæmdastjóra Samtaka ferðaþjónustunnar.
+Foktjón varð á Ísafirði í óveðrinu sem gekk yfir landið í gær, aðfangadag. Lögreglumenn á Ísafirði urðu varir við að nokkrir lausir munir höfðu fokið og að í tveimur tilvikum að minnsta kosti hafi orðið skemmdir á mannlausum bílum sem stóðu á bílastæði við Hafnarstræti á Ísafirði.
+Bandarísk stjórnvöld hafa fundið yfir milljón skjöl sem gætu tengs máli barnaníðingsins Jeffrey Epstein. Þó nokkur skjöl hafa verið birt opinberlega og stendur til að birta nýju skjölin.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 26 Dec 2025 06:01:25 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/26-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 26 Dec 2025 06:01:25 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
