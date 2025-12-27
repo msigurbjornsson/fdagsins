@@ -849,5 +849,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>27.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Jarðskjálfti af stærð 3,1 varð við Kleifarvatn sunnan höfuðborgarsvæðisins klukkan 01:48 í nótt. Um er að ræða þekkt jarðskjálftasvæði.
+Lögregla gerði rassíu á starfsstöðvar Smáríkisins og Nýju vínbúðarinnar síðdegis í dag og var þeim gert að loka afhendingarstöðum sínum. Fyrirtækin verða sektuð en lögregla sagði heimsendingar í lagi þó hátíðardagur sé.
+Lögreglan á Suðurnesjum stöðvaði menn á Keflavíkurflugvelli í vor sem voru komnir hingað til lands til að fremja ofbeldisverk. Aðstoðaryfirlögregluþjónn á Suðurnesjum segir að ekki hafi verið um að ræða hryðjuverk gegn almenningi, heldur ákveðinn ofbeldisverknað tengdan skipulagðri brotastarfsemi.
+Konur á aldrinum átján fram á níræðisaldur dvöldu í Kvennaathvarfinu yfir jólin. Jólahaldið var eins og á stóru heimili, en sporin þangað geta verið þung.
+Fjórir unglingar voru á dögunum sakfelldir í Héraðdómi Reykjavíkur fyrir sérstaklega hættulega líkamsárás, frelsissviptingu, hótanir og rán sem beindist gegn unglingspilti í apríl í fyrra. Þau hlutu átta til fjögurra mánaða skilorðsbundna refsingu.
+Ísrael hefur formlega viðurkennt sjálfstæði Sómalílands sem klauf sig frá Sómalíu árið 1991 fyrst allra landa. Sómalílendingar fagna ákvörðuninni ákaft en stjórnvöld nágrannaríkja fordæma hana harkalega.
+Volodýmýr Selenskí Úkraínuforseti mun funda með Donald Trump Bandaríkjaforseta „í náinni framtíð“ og segir hann að margt geti ráðist fyrir árslok.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 27 Dec 2025 06:01:23 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/27-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 27 Dec 2025 06:01:23 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
