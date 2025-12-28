@@ -871,5 +871,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>28.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Samherji gæti tvöfaldast að stærð nái áform í landeldi fram að ganga að sögn forstjóra félagsins. Félagið hyggist ráðast í þrjátíu milljarða króna fjárfestingu í greininni á næstu misserum með innlendum og erlendum fjárfestum.
+Það var að eigin frumkvæði lögreglu sem ráðist var í lokanir fjögurra verslana á höfuðborgarsvæðinu í gær vegna gruns um ólöglega sölu áfengis á hátíðardögum. Forsvarsmenn fyrirtækjanna gætu átt sekt yfir höfði sér fyrir brot á reglugerð um smásölu og áfengisveitingar, að sögn Árna Friðleifssonar aðstoðaryfirlögregluþjóns hjá lögreglunni á höfuðborgarsvæðinu.
+Auðvelt er að eiga við akstursmæla í bílum með einföldum búnaði. Mikið hefur verið leitað til Félags íslenskra bifreiðaeigenda vegna kílómetragjaldsins, því fólk vill fá að vita hvernig eigi að skrá réttar upplýsingar, og eins hefur borið á því að fólk velti fyrir sér hvernig hægt sé að svindla á kerfinu.
+Hundruð þúsunda eru án rafmagns í Kyiv, höfuðborg Úkraínu, eftir loftárásir Rússlandshers á borgina í nótt og morgun. Einn lést í árásunum og nítján særðust, þar á meðal tvö börn.
+Hafin er söfnun fyrir Kjartan Guðmundsson, mann sem liggur þungt haldinn á spítala í Suður-Afríku eftir umferðaslys þar í landi. Hann er faðir drengs sem er í fíknimeðferð hjá stofnuninni Healing Wings í Suður-Afríku.
+Níu hafa verið handteknir í Ítalíu fyrir að safna rúmlega milljarði íslenskra króna fyrir Hamas-samtökin á Gasa. Fjármununum var safnað undir því yfirskyni að þeir myndu renna til mannúðaraðstoðar í Palestínu.
+Íbúar í Öræfum hafa stofnað til undirskriftasöfnunar til að mótmæla byggingu um 70 smáhýsa fyrir ferðamenn á mörkum Vatnajökulsþjóðgarðs við Skaftafell. Íris Ragnarsdóttir Pedersen, kennari og leiðsögumaður, býr í Svínafelli í Öræfum.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 28 Dec 2025 06:01:21 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/28-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 28 Dec 2025 06:01:21 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
