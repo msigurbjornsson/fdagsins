@@ -893,5 +893,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>29.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Tvær þyrlur Landhelgisgæslunnar voru sendar í sjúkraflutninga á sjötta tímanum í dag vegna alvarlegs umferðarslyss á Fagurhólsmýri í Öræfunum.
+„Ég held að við séum að færast talsvert nær, við erum jafnvel komin ansi nálægt,“ sagði Donald Trump Bandaríkjaforseti að loknum fundi hans og Vólódímírs Selenskíjs Úkraínuforseta á heimili þess síðarnefnda í Mar-a-Lago í Flórída.
+„Ég hef svosum oft rætt þetta og þetta hefur verið lenska hjá stjórnvöldum í gegnum tíðina að ef persónuafsláttur og skattþrep eru ekki að hækka eins launaþróun í landinu er, þá er það ekkert annað en dulin skattahækkun,“ segir Vilhjálmur Birgisson, formaður Starfsgreinasambandsins.
+Átta milljón króna fólksbíll sem gengur fyrir bensíni gæti kostað um 9,6 milljónir á næsta ári. Breytingar á vörugjaldi bíla taka gildi þann 1. janúar og gert er ráð fyrir um 20% hækkun á bílum sem ganga fyrir jarðefnaeldsneyti.
+Flugeldasala Slysavarnarfélagsins Landsbjargar hófst í dag víðs vegar um land og eru útsölustaðir um 100 talsins.
+Franska kvikmyndagoðsögnin Brigitte Bardot er látin. Hún var 91 árs. Brigitte Bardot-sjóðurinn tilkynnti um andlát hennar í morgun.
+Íbúar Úkraínu glíma við nær daglegt rafmagnsleysi og svefnfriður er jafnan lítill þegar hvað mest lætur í árásum Rússa. Íslendingur í Kænugarði segir umfang loftárása Rússa hafa tífaldast frá því í fyrra með tilliti til fjölda vopna sem nýtt eru til árása á Úkraínu.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 29 Dec 2025 06:01:14 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/29-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 29 Dec 2025 06:01:14 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
