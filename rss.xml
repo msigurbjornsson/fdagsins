@@ -914,5 +914,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>30.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Miðflokkurinn mælist með tæplega 22 prósenta fylgi í nýjum þjóðarpúlsi Gallup en hann bætir rúmum tveimur prósentustigum við sig milli mánaða. Samanlagt fylgi stjórnarflokkanna fellur um fjögur prósentustig frá síðasta þjóðarpúlsi og mælist nú 47 prósent.
+Kvikuhlaup og eldgos á Sunhnúksgígaröðinni er komið á tíma samkvæmt öllum breytum sem voru til staðar fyrir fyrri kvikuhlaup. Því gæti gosið hvað úr hverju. Náttúruvársérfræðingur á Veðurstofunni segir stofnunina vera í góðu sambandi við Grindvíkinga og að vel sé fylgst með þróuninni.
+Ýmsar gjalda- og skattahækkanir og aðrar breytingar taka gildi um áramótin, en fjármagnstekjuskattur vegna leigutekna gæti í ákveðnum tilfellum hækkað um tugi þúsunda á mánuði. Fjármálaráðherra vill meina að ríkisstjórnin hafi ekki hækkað skatta á „venjulegt vinnandi fólk“ og segir að áhrif á heimilin ættu ekki að vera mikil. Þá kveðst hann stoltastur af þeim breytingum sem gerðar voru á veiðigjaldinu í ár, af þeim breytingum sem gerðar hafa verið á sköttum og gjöldum á árinu.
+Kolbrúnu Bergþórsdóttur og Víði Sigurðssyni hefur verið sagt upp störfum á Morgunblaðinu.
+Þrír erlendir ferðamenn eru alvarlega slasaðir á sjúkrahúsi eftir bílslys nærri Fagurhólsmýri á Suðurlandi í gær. Tvær þyrlur landhelgisgæslunnar voru kallaðar út á sjötta tímanum. Einn hefur verið útskrifaður af sjúkrahúsi. Þetta staðfestir Einar Sigurjónsson, aðalvarðstjóri hjá lögreglunni á Suðurlandi, við fréttastofu.
+Svokölluðu Skjólshúsi er ætlað að vera úrræði fyrir fólk í tilfinningalegri krísu vegna andlegra áskorana. Um er að ræða tilraunaverkefni til þriggja ára og vonandi lengur að sögn ráðherra. Fimm komast að á hverjum tíma og geta dvalið þar í tvær vikur. Formaður Geðhjálpar er í skýjunum og segir draum að rætast.
+Ekki verður gefið upp hve mikið eldsneytisverð lækkar vegna breytinga á opinberum gjöldum fyrr en á nýársnótt.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 30 Dec 2025 06:01:30 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/30-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 30 Dec 2025 06:01:30 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
