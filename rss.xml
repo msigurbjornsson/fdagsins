@@ -936,5 +936,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>31.12.2025 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Víða er spáð hæglætisveðri á gamlárskvöld og mun lítið blása á suðvesturhorninu. Því má reikna með mikilli loftmengun vegna flugelda. Gert er ráð fyrir tveimur metrum á sekúndu eða minna á höfuðborgarsvæðinu um miðnætti á gamlárskvöld og á að lygna enn meira eftir það.
+Slysavarnafélagið Landsbjörg hefur hafið innköllun á Rakettupakka 2 og tekið hann úr sölu eftir að ábendingar bárust í kvöld um að sumar raketturnar í þeim væru gallaðar. Prófanir sýni að einhverjar þeirra springi of snemma.
+Ríkisstjórnin virðist ekki hafa staðist þær væntingar sem meirihluti landsmanna hafði til hennar á því ári sem liðið er frá því ný stjórn tók við völdum ef marka má niðurstöður skoðanakannana. Ánægja með aðgerðir ríkisstjórnarinnar mælist einna minnst í mennta- og heilbrigðismálum samkvæmt nýrri könnun þar sem spurt var um afstöðu til árangurs af aðgerðum ríkisstjórnarinnar í nokkrum málaflokkum.
+Um 70% landsmanna eru hlynnt því að samfélagsmiðlar verði bannaðir börnum yngri en 16 ára. Þetta sýnir glæný könnun Prósents. Framkvæmdastjóri Heimilis og skóla kveðst fylgjandi banni en segir bann án fræðslu stoða lítið.
+Kristrún Frostadóttir forsætisráðherra segir skiljanlegt að spurningar vakni við að einn og sami ráðherrann fari með málefni þriggja ráðuneyta, eins og í tilfelli Inga Sæland sem er með öll ráðuneyti Flokks fólksins á sinni könnu - en það sé nú aðeins í skamman tíma.
+Utanríkisráðherrar tíu ríkja lýsa yfir þungum áhyggjum vegna stöðu mannúðaraðstoðar á Gaza. Þorgerður Katrín Gunnarsdóttir, utanríkisráðherra Íslands, er meðal þeirra.
+Barna- og fjölskyldustofa, BOFS, lýsir yfir áhyggjum af frelsissviptingu barna í umsögn um frumvarp dómsmálaráðherra um brottfararstöð fyrir hælisleitendur. Þar segir að stofnunin telji að frelsissvipting geti haft alvarleg áhrif á börn. Stofnunin hvetur löggjafann og aðra aðila sem málið varðar að falla frá frelsisviptingu barna með þeim hætti sem frumvarpið mælir fyrir um og í stað þess finna aðrar leiðir en varðhald þegar barnafjölskyldur eiga í hlut.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 31 Dec 2025 06:02:27 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/31-12-2025.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 31 Dec 2025 06:02:27 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
