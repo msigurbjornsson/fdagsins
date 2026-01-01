@@ -957,5 +957,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>01.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Þriðjungslækkun á eldsneytisverði á höfuðborgarsvæðinu
+Hvatti landsmenn til að hafna svartagallsrausi í áramótaávarpi
+Þrír handteknir eftir að hnífi var beitt í alvarlegri líkamsárás
+Rafmagn er aftur komið á í Tálknafirði sem hafði verið án þess síðan klukkan tvö í nótt þegar spennir í tengivirkinu á Kaldeyri fór. Búið er að tengja varaspenni sem fyrir var í tengivirkinu og var rafmagni hleypt aftur á á fjórða tímanum.
+Lögreglumaðurinn Guðmundur Fylkisson sem hefur um árabil einbeitt sér að því að finna týnd börn og koma þeim í skjól var í dag útnefndur maður ársins hjá fréttastofu Sýnar. Við það tilefni fékk Guðmundur að beina spurningu að öllum formönnum flokkanna og sneri hún eðlilega að sérsviði hans.
+Árið 2025 var metár í haldlagningu fíkniefna samkvæmt bráðabirgðatölfræði lögreglu. Lögregla og tollgæsla lögðu hald á samtals 468 kíló af marijúana, 106 kíló af kókaíni og 66 kíló af hassi.
+Gróðureldur kviknaði í Húsavíkurfjalli á sjötta tímanum á gamlárskvöld. Allt tiltækt slökkvilið í Norðurþingi og nágrannasveitarfélaginu Þingeyjarsveit hafa barist við eldinn í kvöld í þurrum gróðrinum.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 01 Jan 2026 06:01:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/01-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 01 Jan 2026 06:01:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
