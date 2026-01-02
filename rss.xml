@@ -978,5 +978,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>02.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Eldsneytisverð lækkaði um í kringum þrjátíu prósent þegar nýtt ár gekk í garð á miðnætti og ný lög um kílómetragjald tóku gildi.
+Pétur Marteinsson, rekstrarstjóri og fyrrverandi knattspyrnumaður, ætlar að gefa kost á sér í oddvitasæti Samfylkingarinnar í Reykjavík fyrir næstu borgarstjórnarkosningar. Þar fer hann á móti Heiðu Björg Hilmisdóttur, núverandi oddvita og borgarstjóra.
+Fimmtán manns leituðu á bráðamóttöku Landspítalans í Fossvogi í Reykjavík vegna flugeldaslysa í gærkvöldi og í nótt. Þar af voru átta sem leituðu á spítalann vegna áverka á augum.
+Skjálfti af stærðinni 4,2 mældist í Bárðarbungu rétt fyrir klukkan níu í morgun, nýársdag.
+Fjórtán Íslendingar – sjö karlar og sjö konur – voru sæmd heiðursmerki hinnar íslensku fálkaorðu á Bessastöðum í dag.
+Halla Tómasdóttir, forseti Íslands, segir það vera sameiginlega ábyrgð Íslendinga að tryggja að öll börn og ungmenni, óháð kyni og bakgrunni, fái tækifæri, finni tilgang og meti sig að verðleikum. „Með sameiginlegu átaki og hlýju getum við skapað framtíð þar sem öll börn finna styrk og von í eigin lífi. Líðan barna nú mun móta sögu og styrk Íslands á næstu árum og áratugum.“
+Albert Haagensen, umhverfis- og byggingarverkfræðingur hjá Kaldalóni, er látinn, 48 ára að aldri. Hann lést eftir skammvinna baráttu við krabbamein og lætur eftir sig eiginmann sinn Sindra Sindrason og dóttur þeirra Emilíu Katrínu.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 02 Jan 2026 06:01:19 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/02-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 02 Jan 2026 06:01:19 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
