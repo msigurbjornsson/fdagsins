@@ -999,5 +999,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>03.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Íslenskur maður sem gekk í úkraínska herinn lést á víglínunni. Hann var 51 árs gamall og hafði verið í Úkraínu í tæpan mánuð. Bróðir hans staðfestir andlát hans.
+Kona á fertugsaldri lést þegar vörubíl var ekið yfir hana á bílaplani Sláturfélags Suðurlands á Hvolsvelli að kvöldi 30. desember. Málið er rannsakað sem slys.
+Árið 2025 var hlýjasta árið á Íslandi frá upphafi mælinga. Meðalhiti í byggðum landsins var 5,2 stig sem er 1,1 stigi yfir meðallagi áranna 1991 til 2020 og hefur aldrei verið hærri. Áður var árið 2014 hlýjasta árið á landsvísu.
+Jeppaeigendur spara tugi þúsunda með tilkomu kílómetragjalds í stað bensíngjalds en eigendur sparneytinna bíla þurfa að greiða tugum þúsunda meira en áður. ASÍ telur þetta koma sér illa fyrir efnaminni og fara gegn markmiðum um að draga úr losun gróðurhúsalofttegunda.
+Tvöfalt fleiri yfir sjötugu leituðu til Bjarkarhlíðar, miðstöðvar þolenda ofbeldis á nýliðnu ári en árið á undan. Dæmi eru um að uppkomin börn neyði foreldra til að selja ofan af sér og svíki út lyf þeirra.
+Stjórnvöld í Sviss hafa lýst yfir fimm daga þjóðarsorg vegna eldsvoðans á barnum Le Constellation í skíðabænum Crans-Montana, þar sem 40 létu lífið og að minnsta kosti 115 særðust. Unnið er að því að bera kennsl á látnu.
+Vólódímír Selenskí Úkraínuforseti hefur skipað nýjan starfsmannastjóra í stað Andríjs Jermak. Sá síðarnefndi sagði af sér eftir að hafa verið bendlaður við umfangsmikið spillingarmál.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 03 Jan 2026 06:01:18 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/03-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 03 Jan 2026 06:01:18 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
