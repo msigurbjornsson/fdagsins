@@ -1021,5 +1021,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>04.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Eygló Fanndal Sturludóttir, lyftingakona úr Lyftingafélagi Reykjavíkur, var í kvöld kjörin Íþróttamaður ársins 2025 af Samtökum Íþróttafréttamanna en þetta var tilkynnt í hófi í Hörpu.
+Einn er látinn eftir umferðarslys sem varð á Biskupstungnabraut skammt frá Þrastarlundi í dag. Tveir til viðbótar voru fluttir til aðhlynningar á Heilbrigðisstofnun Suðurlands.
+Fylgi Sjálfstæðisflokksins í borgarstjórn jókst um tvö prósentustig milli mánaða og nemur nú 35 prósentum í könnun Gallup frá því í desember. Samfylkingin tapar þremur prósentustigum. Sjálfstæðismenn gætu myndað borgarstjórnarmeirihluta með Viðreisn og Miðflokknum. Sjálfstæðisflokkurinn hefur mest fengið um 34 prósenta kosningu frá því eftir hrun.
+Donald Trump Bandaríkjaforseti fyrirskipaði í nótt loftárás á Venesúela þar sem Nicolás Maduro var tekinn höndum ásamt eiginkonu hans og þau flutt til New York þar sem þau verða að líkindum dregin fyrir dómstóla. Hjónin hafa verið ákærð af bandarískum yfirvöldum fyrir fíkniefnahryðjuverk og kókaíninnflutning.
+Íslenski heilsuvöruframleiðandinn Kerecis mun auka framleiðslu sína til að aðstoða fórnarlömb sem brunnu í miklum eldsvoða í Sviss á dögunum.
+Kristján Örn Kristjánsson hefur dregið sig úr landsliðshópi Íslands í handbolta og mun því ekki taka þátt á komandi Evrópumóti.
+Nýrri rennibraut í sundlaug Þorlákshafnar, sem nefnist Drekinn, hefur verið lokað tímabundið vegna óhappa í rennibrautinni. Rúm vika er síðan rennibrautin var tekin í notkun.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 04 Jan 2026 06:01:16 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/04-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 04 Jan 2026 06:01:16 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
