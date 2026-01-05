@@ -1042,5 +1042,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>05.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Kristrún Frostadóttir forsætisráðherra tjáði sig um málefni Grænlands á samfélagsmiðlum í kvöld. „Grænland er hluti af danska konungsríkinu,“ skrifaði Kristrún og lét fylgja með enska þýðingu. „Ekkert um Grænland án Grænlands. Ísland stendur þétt með vinum sínum.“
+Þingmaður Samfylkingarinnar segir að boðað hafi verið til fundar í utanríkismálanefnd Alþingis í fyrramálið til þess að fara yfir stöðuna í Venesúela og meta hvort ástæða sé til að hvetja til umræðu á vettvangi öryggisráðs Sameinuðu þjóðanna um loftárásir Bandaríkjanna í fyrrinótt.
+Listamaðurinn Guðmundur Oddur Magnússon, eða Goddur, er látinn 70 ára að aldri. Goddur var líklega þekktasti listagagnrýnandi Íslands.
+Forsvarsmenn áfengisverslunarinnar Smáríkisins íhuga að fara í mál við lögregluna þar sem hún hefur ítrekað lokað afhendingarstöðvum netverslunarinnar síðustu vikur. Forstjóri fyrirtækisins var í haust ákærður fyrir að hafa selt eina þriggja lítra belju af chardonnay.
+Tveir ökumenn sem stöðvaðir voru við umferðareftirlit á höfuðborgarsvæðinu í dag eru grunaður um að dvelja ólöglega á landinu.
+Það kom Eygló Fanndal Sturludóttur á óvart að hún skyldi vera valin sem íþróttamaður ársins 2025.
+Allt tiltækt slökkvilið var kallað til eftir að eldur kviknaði í einbýlishúsi við Brúnastekk í Breiðholti í nótt. Rauði krossinn sá íbúum fyrir skjóli þar sem húsið var óíbúðarhæft eftir brunann.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 05 Jan 2026 06:01:16 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/05-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 05 Jan 2026 06:01:16 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
