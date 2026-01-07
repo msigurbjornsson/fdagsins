@@ -1085,5 +1085,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>07.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Trump útilokar ekki að beita hernaðarlegu valdi, segir í yfirlýsingunni.
+Danska ríkisstjórnin og landsstjórn Grænlands hafa sent sameiginlega beiðni til utanríkisráðuneytis Bandaríkjanna. Þau óska eftir fundi með Marco Rubio, utanríkisráðherra, sem fyrst.
+Sigríður Margrét Oddsdóttir hefur verið ráðin forstjóri Bláa lónsins hf. frá 16. mars næst komandi. Hún hefur undanfarin ár verið framkvæmdastjóri Samtaka atvinnulífsins. Grímur Sæmundsen, sem verið hefur forstjóri Bláa lónsins frá stofnun þess 1992 lætur þá af störfum en tekur sæti í stjórn félagsins á næsta aðalfundi.
+Hildur Björnsdóttir verður áfram oddviti framboðslista Sjálfstæðisflokksins í Reykjavík í borgarstjórnarkosningum 16. maí næstkomandi. Þetta kemur fram í tilkynningu frá Verði, fulltrúaráði sjálfstæðisfélaganna í Reykjavík.
+Kristrún Frostadóttir forsætisráðherra segir sátt ríkja innan ríkisstjórnarinnar um að þingsályktunartillaga um þjóðaratkvæðagreiðslu vegna aðildarviðræðna við Evrópusambandið verði lögð fyrir á vorþingi.
+Kvikusöfnun heldur áfram undir Svartsengi og áfram eru auknar líkur á kvikuhlaupi og eldgosi á Sundhnúksgígaröðinni. Þetta er meðal þess sem fram kemur í tilkynningu frá Veðurstofunni.
+Forstöðumaður hjá Icelandair segir flugfélagið hafa greitt fjóra milljarða í kolefnisgjald fyrir árið 2025. Hún óttast að undanþága Íslands frá reglugerð Evrópusambandsins falli úr gildi í árslok og verði gjöldin þar af leiðandi mun hærri. Staðsetning Íslands skekkir samkeppnisstöðu íslenskra flugfélaga.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 07 Jan 2026 06:01:15 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/07-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 07 Jan 2026 06:01:15 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
