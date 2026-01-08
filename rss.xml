@@ -1106,5 +1106,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>08.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Bandaríski herinn tók yfir stjórn rússnesks olíuflutningaskips í íslenskri efnahagslögsögu fyrr í dag eftir tveggja vikna eftirför og tóku rússneska áhafnarmeðlimi um borð fasta.
+Samkvæmt nýrri skýrslu umboðsmanns Alþingis hafa sumir þeirra sem vistaðir eru á lögreglustöðinni á Hverfisgötu neyðst til að gera þarfir sínar í klefum sínum. Klefarnir eru ekki endilega þrifnir strax í kjölfarið.
+Ólöf Eiríksdóttir, formaður foreldraráðs leikskólans Funaborgar, segir ólíðandi að foreldrar þurfi að hafa leikskólabörn sín heima í einn og hálfan dag í hverri viku. Hún gagnrýnir skipulagða fáliðun leikskólans og kallar eftir betri aðgerðum af hálfu borgarinnar.
+Útlendingastofnun hefur tilkynnt brot starfsmanns stofnunarinnar á persónuvernd og þagnarskyldu til lögreglunnar. Starfsmaðurinn deildi nöfnum skjólstæðinga í lokuðum hópi á Instagram.
+Beinn kostnaður sem lendir á Bílaleigu Akureyrar - Hölds vegna innleiðingar kílómetragjalds er talinn nema 174 milljónum króna í ár, að sögn Steingríms Birgissonar, forstjóra bílaleigunnar.
+Björg Magnúsdóttir, fjölmiðlakona og fyrrverandi aðstoðarmaður borgarstjóra Framsóknarflokksins, gefur kost á sér í oddvitasæti Viðreisnar í komandi borgarstjórnarkosningum.
+Veðurstofan varar við norðaustan hríð á Suðurlandi og Suðausturlandi í kvöld og á morgun.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 08 Jan 2026 06:01:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/08-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 08 Jan 2026 06:01:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
