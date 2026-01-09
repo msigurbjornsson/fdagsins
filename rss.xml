@@ -1128,5 +1128,33 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>09.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Guðmundur Ingi Kristinsson hefur tilkynnt að hann muni segja af sér sem mennta- og barnamálaráðherra vegna veikinda. Hann mun halda áfram sem þingmaður Flokks fólksins.
+
+Inga Sæland ætlar að taka við mennta- og barnamálaráðuneytinu af Guðmundi Inga Kristinssyni sem hefur ákveðið að láta af embætti. Ragnar Þór Ingólfsson, þingflokksformaður Flokks fólksins, verður félags- og húsnæðismálaráðherra.
+
+Tuttugu og fimm björgunarsveitamenn komu um tvö hundruð manns til bjargar þegar ofsaveður reið yfir á þjóðvegi 1 milli Jökulsárlóns og Skaftafells í dag. Unnið er að því að koma fólkinu af fjöldahjálparstöð á Hofi í Öræfum að Hnappavöllum, þar sem það fær að gista í nótt.
+
+Meðalaldur hjúkrunarfræðinga, sjúkraliða og ljósmæðra hefur hækkað á síðustu árum samkvæmt nýjum Talnabrunni Landlæknisembættisins. Formaður Sjúkraliðafélags Íslands segir þetta áhyggjuefni en á næstu tólf árum muni um sjö hundruð sjúkraliðar hverfa úr stéttinni sökum aldurs.
+
+Áfram halda ráðamenn í Washington að ítreka ósk sína um að eignast Grænland. Nú síðast JD Vance, varaforseti Bandaríkjanna, sem fór nokkuð hörðum orðum um Danmörku í viðtali við Fox News í nótt. Líkt og Trump-stjórnin hefur gert áður gagnrýnir Vance Dani fyrir að hafa staðið illa að vörnum Grænlands undanfarin ár. Vance segir Trump vera tilbúinn til að ganga „eins langt og nauðsynlegt er“ til að tryggja hagsmuni Bandaríkjanna.
+
+Ungt barn á Landspítalanum greindist með mislinga en barnið kom heim erlendis frá síðastliðinn mánudag. Barnið var á bráðamóttöku Barnaspítala Hringsins daginn eftir og verður haft samband við alla sem hugsanlega voru útsettir fyrir smiti á spítalanum.
+
+Sjö eru með réttarstöðu sakbornings í tengslum við brunann á stuðningsheimilinu Stuðlum í október 2024. Þetta segir E. Agnes Eide Kristínardóttir, yfirlögregluþjónn rannsóknarsviðs lögreglunnar á höfuðborgarsvæðinu.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 09 Jan 2026 06:01:25 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/09-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 09 Jan 2026 06:01:25 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
