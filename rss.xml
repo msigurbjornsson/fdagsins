@@ -1177,5 +1177,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>11.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Starfsmenn á þremur spítölum í Íran segja að fjöldi slasaðra og látinna mótmælenda sem streyma til þeirra sé slíkur að ekki þeir hafi ekki undan og ekki gefist tími til að veita þeim lífsbjargandi aðhlynningu. Ekkert lát er á gríðarlegum mótmælum sem staðið hafa yfir í landinu vikum saman. Bandaríkjaforseti segir Bandaríkin reiðubúin að hjálpa.
+Þrjátíu til fjörutíu fasteignir sem urðu fyrir altjóni í jarðhræringum og eldgosi við Grindavík síðustu ár verða rifin niður á þessu ári. Þrjú hús verða rifin á næstu vikum. Forseti bæjarstjórnar segir um blendnar tilfinningar að ræða en niðurrifið markar upphaf endurreisnar bæjarins.
+Grænlenski utanríkisráðherrann Vivian Motzfeldt segir afdráttarlaust að landið sé ekki til sölu. Í samtali við KNR segist hún ætla að koma þeim skýru skilaboðum til dansks og bandarísks kollega síns á fundi í næstu viku, þeirra Lars Løkke Rasmussen og Marco Rubio.
+Ríkisráðsfundur hefur verið boðaður á Bessastöðum klukkan þrjú, síðdegis á morgun. Þar verður formlega gengið frá breytingum í ríkisstjórn.
+Mikið atvinnuleysi á Suðurnesjum miðað við aðra landshluta er högg segir forseti bæjarstjórnar í Reykjanesbæ og fá störf auglýst. Unnið er að því að fjölga atvinnutækifærum í bænum til að bregðast við.
+Ríkisútvarpið hefur tilkynnt lagahöfundum sem sent höfðu inn lag í Söngvakeppnina að það verði ekkert af keppninni. Um miðjan desember var tilkynnt að Ísland tæki ekki þátt í Eurovision í ár vegna þátttöku Ísraels í keppninni.
+Hryðjuverkamálið svokallaða er komið á dagskrá Hæstaréttar. Málið verður tekið fyrir þann 11. febrúar næstkomandi en tæpt ár er síðan Landsréttur staðfesti sýknudóm Héraðsdóms Reykjavíkur.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 11 Jan 2026 06:01:18 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/11-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 11 Jan 2026 06:01:18 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
