@@ -1199,5 +1199,33 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>12.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Ríkisráðsfundur var haldinn á Bessastöðum í dag. Þar samþykkti Halla Tómasdóttir, forseti Íslands, breytingar í ráðherrahópi ríkisstjórnar Kristrúnar Forstadóttur.
+
+Karlmaður á sjötugsaldri lést í vinnuslysi á Hvolsvelli í gær.
+
+Nýr félags- og húsnæðismálaráðherra segist ætla að taka til hendinni í málaflokknum. Sveiflur á húsnæðismarkaði hafi verið einn helsti drifkraftur verðbólgu síðasta áratuginn.
+
+Þrír voru handteknir vegna gruns um íkveikju í einbýlishúsi í Breiðholti. Málið er til rannsóknar hjá Lögreglunni á höfuðborgarsvæðinu sem tók við vettvanginum eftir að Slökkvilið höfuðborgarsvæðisins slökkti allan eld.
+
+Lögreglan á Suðurlandi naut aðstoðar sérsveitar ríkislögreglustjóra þegar tveir voru handteknir á Selfossi í kvöld.
+
+Meirihluti landsmanna er hlynntur upptöku viðræðna við Evrópusambandið samkvæmt könnun Maskínu. Könnunin var gerð í desember og prófessor í stjórnmálafræði telur líklegt að afstaða fólks sé að taka hröðum breytingum samhliða vendingum á alþjóðavísu. Geri megi ráð fyrir algjörri uppstokkun í umræðu um kosti og galla aðildar.
+
+Íslenska karlalandsliðið í handbolta tapaði fyrir því franska, 31-29, í síðasta leik sínum fyrir Evrópumótið. Frakkar tryggðu sér sigurinn með því að skora tvö síðustu mörk leiksins.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 12 Jan 2026 06:01:06 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/12-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 12 Jan 2026 06:01:06 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
