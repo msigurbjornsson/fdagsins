@@ -1227,5 +1227,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>13.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Mikill eldsvoði kviknaði í Gufunesi í Reykjavík og sást reykur víða um höfuðborgarsvæðið. Slökkviliðið hefur náð tökum á eldinum. Stjórnarformaður True North segir að mikið tjón hafi orðið á eignum framleiðslufyrirtækisins en TrueNorth leigir skemmuna af Reykjavíkurborg.
+Héraðssaksóknari hefur kært úrskurð Héraðsdóms Reykjaness, um að hafna kröfu um gæsluvarðhald yfir Helga Bjarti Þorvarðarsyni, sem ákærður hefur verið fyrir að nauðga tíu ára dreng, til Landsréttar.
+Landsstjórn Grænlands sagði í yfirlýsingu nú síðdegis að grænlenska þjóðin geti með engu móti fallist á að Bandaríkin taki yfir Grænland. Grænland sé hluti af danska konungsríkinu og þannig með aðild að Atlandshafsbandalaginu sem beri að tryggja varnir landsins.
+Mennta- og barnamálaráðuneytið hefur birt til umsagnar drög að reglugerð um fyrirkomulag og framkvæmd samræmds námsmats í grunnskólum. Samkvæmt reglugerðinni verða niðurstöður þessara prófa gerðar opinberar, bæði hvað varðar árangur nemenda á landsvísu sem og í einstökum grunnskólum.
+Óveðrið valdið víðtækum samgöngutruflunum á Austurlandi. Margir vegir eru ófærir, rask hefur verið á almenningssamgöngum og björgunarsveitir hafa komið mörgum til bjargar sem ekki komust leiðar sinnar.
+Tveir ráðuneytisstjórar hafa verið færðir til á milli ráðuneyta í framhaldi af breytingum sem gerðar voru á ríkisstjórn um helgina. Breytingarnar hafa þegar tekið gildi.
+Skurðæknir hjá Klíníkinni í Ármúla segir heilbrigðiskerfið ekki anna eftirspurn eftir aðgerðum vegna endómetríósu. 188 konur eru á biðlista eftir aðgerð hjá Klíníkinni á þessu ári og hann óttast að biðin lengist að óbreyttu úr einu ári í tvö ár.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 13 Jan 2026 06:01:24 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/13-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 13 Jan 2026 06:01:24 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
