@@ -1249,5 +1249,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>14.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Skemman sem brann í Gufunesi í gær taldist ekki hæf til afnota í úttekt slökkviliðsins árið 2024.
+Í lok nóvember birtist tilkynning á vef félags-og húsnæðismálaráðuneytisins þar sem greint var frá því að Inga Sæland, þáverandi ráðherra, hefði veitt fjórum verkefnum styrk uppá samtals 60 milljónir.
+Á morgun munu Lars Løkke Rasmussen utanríkisráðherra Danmerkur og Vivian Motzfeldt utanríkisráðherra Grænlands hitta J.D. Vance varaforseta Bandaríkjanna og Marco Rubio utanríkisráðherra Bandaríkjanna í Hvíta húsinu.
+Mannréttindadómstóll Evrópu dæmdi íslenska ríkið brotlegt gegn konu sem höfðaði mál á grundvelli óréttlátrar málsmeðferðar á kynferðisbrotamáli.
+Hæstiréttur hefur ákveðið að taka fyrir mál fyrirtækisins Vélfag gegn íslenska ríkinu. Málið mun því ekki fara fyrir Landsrétt en íslenska ríkið var sýknað í Héraðsdómi Reykjavíkur í lok nóvember.
+Inga Sæland, nýr mennta- og barnamálaráðherra, boðar takmarkanir á aðgengi barna og ungmenna að samfélagsmiðlum. Hún segir fyrirhugaðar takmarkanir enn vera á teikniborðinu en að til standi að miða þær við 15 ára aldur.
+Sjálfbærni íslensks heilbrigðiskerfis til framtíðar er í uppnámi að mati forseta á Heilbrigðisvísindasviði Háskóla Íslands. Ekki sé hægt að standa við áform um fjölgun nema í heilbrigðisgreinum vegna niðurskurðar stjórnvalda.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 14 Jan 2026 06:01:11 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/14-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 14 Jan 2026 06:01:11 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
