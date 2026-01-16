@@ -1270,5 +1270,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>16.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Stjórnendur Deloitte á Íslandi segjast líta ásakanir á hendur Þorsteini Pétri Guðjónssyni, forstjóra fyrirtækisins, alvarlegum augum og hefur stjórn félagsins skipað Signýju Magnúsdóttur forstjóra til bráðabirgða.
+Samtök gegn kynbundnu ofbeldi segja alvarlegt að dómari hafi veitt ofbeldismanni skilorðsbundinn dóm fyrir brot gegn sambýliskonu og að ríkissaksóknari hafi kosið að áfrýja ekki. Maðurinn hefur nú verið ákærður fyrir að brjóta á stjúpdóttur sinni.
+Fulltrúi bandaríska sendiráðsins á Íslandi hefur verið kallaður á teppið í utanríkisráðuneytinu í dag þar sem hann verður krafinn skýringa um meint ummæli mögulegs sendiherraefnis Bandaríkjanna gagnvart Íslandi. Skorað hefur verið á Þorgerði Katrínu Gunnarsdóttur utanríkisráðherra að bregðast við vegna brandara Billy Long um að gera ætti Ísland að 52. ríki Bandaríkjanna.
+Að óbreyttu verður rekstri Heilsuleikskólans Ársólar hætt í sumar eftir að Reykjavíkurborg sagði upp leigusamningi vegna húsnæðis sem hýst hefur starfsemi leikskólans við Völundarhús í Grafarvogi. Foreldrar barna á leikskólanum lýsa miklum áhyggjum og „algjöru áfalli“ enda hafi ríkt almenn ánægja með starfsemi leikskólans og ekki hlaupið að því að fá nýtt leikskólapláss. Pláss er fyrir 54 börn á aldrinum níu mánaða til þriggja ára á leikskólanum samkvæmt upplýsingum á heimasíðu skólans.
+Úrbætur í flutningskerfi raforku geta hækkað flutningsgjöld til fiskimjölsverksmiðja og gert mengandi olíu ódýrari orkukost. Engir verðflokkar eru til hjá Landsneti fyrir millistóra notendur eða þá sem annars brenna mikilli olíu.
+Ekki er hægt að slá því föstu að börn sem dvöldu á Vöggustofu Thorvaldsensfélagsins í Reykjavík árin 1974 til 1979 hafi sætti illri meðferð. Þetta eru niðurstöður rannsóknarnefndar sem hafði starfsemi vöggustofunnar til rannnsóknar.
+Aðstandendur heimilisfólks á Sóltúni ætla að stefna íslenska ríkinu út af byggingaframkvæmdum við hjúkrunarheimilið. Forstjóri Sóltúns segist skilja aðstandendurna en að neyðarástand ríki á Íslandi vegna skorts á hjúkrunarrýmum.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 16 Jan 2026 06:01:25 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/16-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 16 Jan 2026 06:01:25 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
