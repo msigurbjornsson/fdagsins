@@ -1291,5 +1291,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>17.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Guðbrandur Einarsson, þingmaður Viðreisnar, hefur sagt af sér þingmennsku vegna tilraunar til að kaupa vændi árið 2012. Hann var yfirheyrður af lögreglu á sínum tíma en segist ekki hafa verið ákærður. Hann tók ákvörðun um afsögn þegar Vísir ætlaði að fjalla um málið. Hann segist hafa gert stór mistök sem hann harmi mjög.
+Ákvörðun um að hætta áætlunarflugi Icelandair til Istanbúl í Tyrklandi frá og með 1. febrúar er alfarið á ábyrgð stjórnenda flugfélagsins. Sú ákvörðun byggir á mistökum stjórnenda, að því er segir í yfirlýsingu stjórnar Félags íslenskra atvinnuflugmanna, FÍA, sem Jón Þór Þorvaldsson, formaður félagsins, skrifar undir.
+Dánartíðni er hærri og örorka meiri meðal þeirra sem dvöldu á vöggustofu Thorvaldsensfélagsins á áttunda áratug síðustu aldar en jafnaldra þeirra. Samkvæmt vöggustofunefnd er ekki hægt að slá því föstu að börnin hafi sætt illri meðferð þrátt fyrir að ýmislegt hafi verið ábótavant. Borgarstjóri ætlar að bregðast við tillögum nefndarinnar um úrbætur.
+Landsréttur hefur birt gæsluvarðhaldsúrskurð sinn yfir Helga Bjarti Þorvarðssyni. Dómurinn sneri í vikunni úrskurði Héraðsdóms Reykjaness sem hafnaði kröfu um gæsluvarðhald yfir honum.
+Byggingafulltrúi Kópavogsbæjar stöðvaði í dag verktaka sem höfðu hafist handa við niðurrif á húsnæði þar sem félagsheimili Kópavogs var áður, án þess að hafa tilskilið leyfi. Varabæjarfulltrúi segir að framkvæmdin öll sé „eitt allsherjarklúður af hálfu Kópavogsbæjar.“
+Lögreglan réðst í umfangsmikla aðgerð á Akureyri í kvöld þegar fjöldi lögreglumanna stöðvaði og handtók ökumann við Glerárgötu.
+Hið minnsta tveir hafa verið fluttir til skoðunar á slysadeild eftir fimm bíla árekstur á Reykjanesbraut við Hvassahraun upp úr klukkan 23 í kvöld.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 17 Jan 2026 06:01:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/17-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 17 Jan 2026 06:01:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
