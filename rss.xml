@@ -1312,5 +1312,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>18.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Donald Trump hyggst leggja tíu prósenta toll á allar vörur frá Danmörku, Noregi, Svíþjóð, Frakklandi, Bretlandi, Hollandi og Finnlandi frá og 1. febrúar vegna þess að fyrrnefnd lönd styðja ekki innlimun Bandaríkjanna á Grænlandi.
+Verslunarsamningur Bandaríkjanna og Evrópusambandsins frá því í fyrra er í uppnámi þar sem meirihluti á Evrópuþingi vill ekki lengur staðfesta samkomulagið í kjölfar þess að Donald Trump Bandaríkjaforseti hótaði átta Evrópulöndum með tollum í tengslum við Grænland.
+Þorgerður Katrín Gunnarsdóttir utanríkisráðherra lýsir yfir stuðningi við Grænland og Danmörku í kjölfar þess að Donald Trump Bandaríkjaforseti hefur boðað tolla á lönd sem styðja Grænland.
+Verðbólga gæti sprengt kjarasamninga í haust, að mati formanns VR sem biður ríki og sveitarfélög um að halda aftur af sér í gjaldahækkunum.
+Álagning olíufélaganna hefur aldrei verið hærri en núna. Eldsneytisverð lækkaði um tæplega 97 krónur við ármótin þegar kílómetragjaldið tók gildi sem er í samræmi við væntingar Alþýðusambandsins.
+Geðheilbrigðisþjónusta við fanga verður stórbætt með tilfærslu hennar til Landspítala.
+Alfreð Gíslason og lærisveinar hans í þýska landsliðinu í handbolta þurftu að sætta sig við svekkjandi tap gegn Serbum á EM í handbolta í kvöld. Á ögurstundu gerði Alfreð mistök sem reyndust Þjóðverjum dýrkeypt.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 18 Jan 2026 06:01:00 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/18-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 18 Jan 2026 06:01:00 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
