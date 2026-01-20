@@ -1355,5 +1355,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>20.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Framgöngu Trumps gagnvart Grænlandi verður að linna
+„Blasir við að íslenskt launafólk var svikið“
+Fimmta hver koma á bráðamóttöku tengd áfengi
+Rannsóknarnefnd samgönguslysa vill að Vegagerðin ráðist í viðeigandi úrbætur til að bæta umferðaröryggi á hringveginum við Steinafjall undir Eyjafjöllum. Vegarkaflinn er þekktur grjóthrunsstaður og varð hrun úr fjallinu konu að bana í mars.
+Loðnuvertíðin er hafin en fyrsta loðnan veiddist í dag út af Austfjörðum og er stefnt að því að henni verði landað á Norðfirði á morgun. Þá héldu fimm skip á miðin í dag til loðnumælinga á vegum Hafrannsóknastofnunar en niðurstöðurnar ráða miklu um það hversu stór loðnukvótinn verður.
+Heiðar Guðjónsson hefur verið kjörinn stjórnarformaður Íslandsbanka. Tilnefninganefnd bankans tilnefndi hann sem stjórnarformann en hann leiddi hóp fjárfesta í bankanum sem fóru fram á að hluthafafundur yrði haldinn. Enginn annar gaf kost á sér og því var Heiðar sjálfkjörinn.
+Sex voru handteknir og hald lagt á umtalsvert magn af fíkniefnum, vopnum og fjármunum í lögregluaðgerðum á Akureyri um helgina. Ráðist var í aðgerðirnar í leit að vopni sem grunur er um að notað hafi verið til að beita hótunum, en ráðist var í húsleit og handtökur á fjórum stöðum og eru tveir enn í varðhaldi. Rannsókn málsins beinist þó einkum að fjórum einstaklingum, þar af tveir undir átján ára aldri, eru til rannsóknar. Þá voru fjórir handteknir í sama lögregluumdæmi í tengslum við innbrot og þjófnað.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 20 Jan 2026 06:01:10 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/20-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 20 Jan 2026 06:01:10 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
