@@ -1376,5 +1376,33 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>21.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Hálfgert hættuástand skapaðist sunnan- og vestanlands fyrir akandi, hjólandi og gangandi vegfarendur vegna flughálku í morgun. Rekja má fjölda umferðaróhappa og slysa til hennar. Á hádegi höfðu þrjátíu manns leitað á bráðamóttöku vegna hálkumeiðsla en í kvöld hafði sú tala hækkað í áttatíu.
+
+Ísland vann frækinn eins marks sigur gegn Ungverjum í hreinum úrslitaleik um efsta sæti F-riðils á EM í handbolta í kvöld.
+
+Ingibjörg Isaksen þingflokksformaður Framsóknarflokksins hefur boðið sig fram til formanns flokksins. Þetta tilkynnti hún í morgun en hún segir flokkinn standa á tímamótum og mikilvægt að formaður flokksins eigi sæti á Alþingi.
+
+Rannsókn lögreglunnar á höfuðborgarsvæðinu á andláti franskra feðgina á Edition-hótelinu í júní er lokið. Konan sem grunuð er um að hafa orðið eiginmanni sínum og dóttur að bana játaði á vettvangi að hafa drepið þau, og sagðist hafa ætlað að svipta sig lífi í leiðinni, en neitar sök í dag.
+
+Tæplega tuttugu milljónir rúmmetra af kviku hafa safnast saman undir Svartsengi frá því í síðasta gosi á Sundhnúksgígaröðinni og er enn talið líklegt að aftur gjósi á næstu vikum. Hættumat er óbreytt fram í næsta mánuð.
+
+Fjöldi ofbeldisbrota gagnvart lögreglumönnum hefur nær tvöfaldast síðasta áratuginn. Dæmi eru um að glæpamenn hafi átt við bíla lögreglumanna og formaður Landssambands lögreglumanna kallar eftir harðari dómum vegna alvarlegra brota.
+
+Samtölum vegna sjálfsvígshugsana í hjálparsíma Rauða krossins fjölgaði um nærri 70% milli ára. Verkefnastjóri kallar eftir aukinni þjónustu fyrir fólk sem líður illa.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 21 Jan 2026 06:01:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/21-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 21 Jan 2026 06:01:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
