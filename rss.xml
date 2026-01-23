@@ -1425,5 +1425,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>23.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Lilja Dögg Alfreðsdóttir, varaformaður Framsóknar, hefur ákveðið að gefa kost á sér til að verða næsti formaður Framsóknarflokksins.
+Þorgerður Katrín Gunnarsdóttir utanríkisráðherra undirstrikar að Ísland standi áfram með Dönum og Grænlendingum í deilu þeirra við Bandaríkin. Mörgum létti þegar Donald Trump forseti Bandaríkjanna sagðist í gær ekki ætla að beita hervaldi gegn Grænlandi og afboðaði tolla á Evrópuríki vegna stuðnings þeirra við Grænlendinga. Hann og Mark Rutte framkvæmdastjóri NATO komust að samkomulagi um Grænland í gær sem fól ekki í sér eignarhald eða yfirráð yfir landinu.
+Aldrei hafa jafn margir leitað á bráðamóttöku Landspítalans vegna hálkuslysa á einum degi líkt og á þriðjudag þegar níutíu slösuðust. Leggja þurfti fimm inn á sjúkrahúsið.
+Foreldrar sex ára gamallar stúlku höfðu enga vitneskju um að brotið hefði verið kynferðislega gegn henni fyrr en lögregla hafði samband. Karlmaður sem er ákærður fyrir brotið dreifði ljósmyndum á netinu sem komu lögreglu á snoðir um málið. Alþjóðlegt samstarf skipti sköpum.
+Óbirt skýrsla um fjárhagsstöðu Félagsbústaða lýsir veikri fjárhagsstöðu félagsins sem hafi verið rekið með ósjálfbærum hætti undanfarin ár.
+Öllum starfsmönnum Vélfags hefur verið sleppt úr haldi lögreglu. Þetta staðfestir Ólafur Þór Hauksson héraðssaksóknari sem segir að öllum hafi verið sleppt í gærkvöldi að lokinni skýrslutöku.
+Framkvæmdastjóri hjá Landsvirkjun vonast til að endanlegt framkvæmdaleyfi fyrir Hvammsvirkjun fáist í næsta mánuði og að smíði hennar fari þá á fulla ferð. Fyrirtækið hyggst jafnframt hefja stækkun þriggja eldri virkjana í ár.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 23 Jan 2026 06:01:23 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/23-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 23 Jan 2026 06:01:23 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
