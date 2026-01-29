@@ -1447,5 +1447,33 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>29.01.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Ísland er komið áfram í undanúrslitin á EM í handbolta eftir öruggan 39-31 sigur gegn Slóveníu í síðasta leik milliriðilsins.
+
+Fjörutíu og fimm manns var sagt upp hjá Íslenskri erfðagreiningu í dag.
+
+Atvinnuvegaráðherra segir bandarískt stórfyrirtæki reyna að hafa áhrif á íslenska lagasetningu í eldismálum.
+
+Þrír Íslendingar þjálfa lið í undanúrslitum Evrópumóts karla í handbolta í ár.
+
+Alma Möller heilbrigðisráðherra hefur sett Elísabetu Benedikz tímabundið í embætti landlæknis á meðan María Heimisdóttir landlæknir er í veikindaleyfi.
+
+Varaformaður Sjálfstæðisflokksins segir fólk sem ekki virðir íslensk gildi ekkert hafa hingað að gera.
+
+Ísland mun mæta Danmörku í undanúrslitum Evrópumóts karla í handbolta klukkan 19:30 á föstudagskvöld.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 29 Jan 2026 06:01:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/29-01-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 29 Jan 2026 06:01:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
