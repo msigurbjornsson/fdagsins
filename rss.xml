@@ -1475,5 +1475,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>02.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Lafuey Lín Jónsdóttir hlaut sín önnur Grammy-verðlaun í kvöld. Breiðskífa hennar A Matter of Time var verðlaunuð í flokki hefðbundinna poppplatna. Hún hlaut verðlaun í sama flokki árið 2024.
+Gagnagrunnur heimilisfanga og annarra persónuupplýsinga fjölda ICE-liða er hýstur á íslenskum netþjóni. Upplýsingunum hefur verið safnað og er haldið úti á síðunni sem lýst er af aðstandenda sem „átaki í ábyrgð“.
+Íslenska karlalandsliðið í handbolta þarf að sætta sig við 4. sæti Evrópumótsins í handbolta eftir súrt eins marks tap gegn Króötum í bronsleiknum í dag, 34-33.
+Náttúruhamfaratrygging gerir ráð fyrir að heildarbótagreiðsla á atburðinum í Grindavík, eins og hann hefur orðið, sé kannski um eða yfir 12 milljarðar.
+Verðbólgan mældist 5,2% í nýliðnum janúarmánuði og jókst um 0,7 prósentustig á milli mánaða, svo ekki er von um frekari vaxtalækkanir í bili og ekki ómögulegt að Seðlabankinn hækki vexti á miðvikudag.
+Um 350 börn eru í meðferð við offitu í Heilsuskóla Barnaspítala Hringsins og þeim fjölgar ár frá ári. Börn niður í níu ára fá þyngdarstjórnunarlyf.
+Leikstjórnandi íslenska karlalandsliðsins í handbolta, Gísli Þorgeir Kristjánsson, var valinn í úrvalslið Evrópumótsins 2026.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 02 Feb 2026 06:01:22 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/02-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 02 Feb 2026 06:01:22 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
