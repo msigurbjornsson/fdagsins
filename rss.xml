@@ -1496,5 +1496,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>03.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Laufey Lín Jónsdóttir hlaut sín önnur Grammy-verðlaun í kvöld. Breiðskífa hennar A Matter of Time var verðlaunuð í flokki hefðbundinna poppplatna. Hún hlaut verðlaun í sama flokki árið 2024.
+Tveir eru í haldi lögreglu í tengslum við andlát á sjúkrastofnun í Vestmannaeyjum.
+Reykjavíkurborg hefur lokað framleiðslueldhúsinu á Vitatorgi eftir að bakterían Listeria monocytogenes, betur þekkt sem listería, fannst þar við reglubundna sýnatöku. Yfir níu hundruð máltíðir eru framleiddar í eldhúsinu á dag.
+Meirihluti þingmanna samþykkti síðdegis frumvarp dómsmálaráðherra um sameiningu sýslumannsembætta. Það felur meðal annars í sér að landið verður eitt sýslumannsumdæmi og að sýslumönnum fækkar úr níu í einn.
+Dómsmálaráðherra kynnti í morgun stefnu og aðgerðir gegn skipulagðri brotastarfsemi hér á landi sem felur meðal annars í sér nýtt samræmt verklag við meðferð brottvísunarmála brotahópa frá EES-ríkjum. Ráðherrann segir að með stefnunni sé brotahópum send skýr skilaboð um að það borgi sig ekki að leita til Íslands.
+Rússnesk flóttamannafjölskylda sem íslensk stjórnvöld vísuðu úr landi tveimur vikum eftir keisaraskurð verður að óbreyttu send til Rússlands. Króatísk stjórnvöld hafa synjað móðurinni og börnunum um alþjóðlega vernd. Örlög föðurins, sem hefur sætt pólitískum ofsóknum í Rússlandi, eru óljós þar sem fjölskyldunni var sundruð í Króatíu.
+Forsætisráðherra segir að tekin verði fyrstu skref í áttina að því að afnema verðtryggingu hér á landi um næstu áramót. Nauðsynlegt sé að rjúfa þann vítahring sem hún hafi skapað þar sem hún viðhaldi hærri stýrivöxtum en nauðsynlegt sé.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 03 Feb 2026 06:01:30 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/03-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 03 Feb 2026 06:01:30 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
