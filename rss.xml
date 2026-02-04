@@ -1518,5 +1518,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>04.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Héraðsdómur Suðurlands hafnaði nú síðdegis kröfu lögreglunnar um gæsluvarðhald yfir tveimur starfsmönnum hjúkrunarheimilisins Hraunbúða í Vestamannaeyjum, sem hafa verið í haldi lögreglu frá því í gær í tengslum við andlát konu á tíræðisaldri. Samkvæmt heimildum fréttastofu hóf lögreglan rannsókn á andlátinu eftir tilkynningu frá öðrum starfsmanni hjúkrunarheimilisins í kjölfar lyfjagjafar.
+Níu menn hafa krafið forsætisráðherra um rannsókn og bætur vegna mikils ofbeldis sem þeir segjast hafa upplifað á sveitabæ sem börn allt til ársins 2002. Barnaverndarnefndir sendu fjölda barna á bæinn og eftirlit virðist hafa verið í molum.
+Framleiðslueldhúsi fyrir aldraða á Vitatorgi var lokað í gær vegna listeríu. Framkvæmdir við nýtt eldhús gætu tekið meira en ár. Ríflega 900 máltíðir eru framleiddar í eldhúsinu á hverjum degi.
+Miklar launahækkanir stærra vandamál en verðtryggingin að mati hagfræðings sem segir verðtrygginguna ekki aðalvandamálið og kallar eftir auknu samráði á vinnumarkaði.
+Að minnsta kosti átta starfsmenn á bráðamóttökunni í Fossvogi í Reykjavík hafa verið útsettir fyrir berklum, en þeir eru hvorki veikir né smitandi.
+KR hafði betur og mætir Stjörnunni í úrslitaleik á laugardaginn.
+Samfylkingin og Sjálfstæðisflokkurinn myndu báðir fá átta fulltrúa inn í borgarstjórn Reykjavíkur samkvæmt nýrri könnun Gallúp. Enn er borgarstjórnarmeirihlutinn fallinn og hafa bæði Framsókn og Flokkur fólksins þurkast út.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 04 Feb 2026 06:01:24 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/04-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 04 Feb 2026 06:01:24 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
