@@ -1539,5 +1539,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>05.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Forsætisráðherra segir kerfið hafa brugðist börnunum í Bakkakoti.
+Leikskólastjórnendur í Reykjavík krefjast aðgerða: „Við getum ekki haldið svona áfram“.
+Peningastefnunefnd Seðlabanka Íslands hefur ákveðið að halda stýrivöxtunum óbreyttum og verða þeir því áfram 7,25 prósent.
+Framsóknarfélag Akureyrar og nágrennis kærði í dag til siðanefndar flokksins að hópurinn Konur í Framsókn skuli auglýsa fund með Lilju Alfreðsdóttur nokkrum dögum áður en flokksþing Framsóknar hefst.
+Alþingi samþykkti í gær fyrstu formlegu varnar- og öryggisstefnu Íslands með stuðningi þingmanna allra flokka á Alþingi sem viðstaddir voru atkvæðagreiðsluna.
+Samtals 84 var sagt upp í tveimur hópuppsögnum sem voru tilkynntar til Vinnumálastofnunar í síðasta mánuði. Öllum verður boðin vinna aftur. Þetta kemur fram í tilkynningu frá stofnuninni.
+Íslenskur karlmaður sem greindist með berkla í ágúst í fyrra eftir að hafa leitað á bráðamóttöku Landspítalans lést á spítalanum í janúarmánuði á þessu ári eftir að meðferð hafði ekki borið árangur.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 05 Feb 2026 06:01:11 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/05-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 05 Feb 2026 06:01:11 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
