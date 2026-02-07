@@ -1582,5 +1582,27 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>07.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Málefni Bakkakots, sem fjallað var um í fréttaskýringaþættinum Kveik í vikunni, var rætt á fundi ríkisstjórnarinnar í morgun. Í þættinum sögðu fimm menn að húsfreyjan á Bakkakoti á Rangárvöllum hefði beitt þá margvíslegu ofbeldi. Börn voru í fóstri á bænum á árunum 1975-2002. Tíu menn segjast hafa verið beittir ofbeldi á bænum.
+Sautján ára piltur lést í umferðarslysi á Miklubraut í gærkvöldi. Tveir voru í bílnum. Ökumaðurinn, piltur á sama aldri, slasaðist töluvert og var fluttur með sjúkrabíl á slysadeild.
+Matsfyrirtækið Fitch Ratings hækkaði í dag lánshæfiseinkunn Íslands úr A í A+ með stöðugum horfum.
+Ástandið á leikskólum borgarinnar hefur aldrei verið verra að mati formanns Eflingar. Leikskólakerfið eins og það sé nú gangi ekki upp og ástandið bitni á andlegri og líkamlegri heilsu starfsfólksins. Hún hvetur stjórnvöld til að lengja fæðingarorlofið til að létta á kerfinu.
+Forstjóri Landspítalans segir í erindi til heilbrigðisráðherra að vandi spítalans ógni heilsu aldraðra og komi niður á bráðaþjónustu spítalans. Biður spítalinn meðal annars um tafarlausar neyðaraðgerðir. Spítalanum er nú nærri ómögulegt að takast á við skyndilega atburði eins og fjöldaslys, segir forstjórinn.
+„Þegar við kíktum út um gluggann sáum við bara skilti og grasbala við vélina. Ætli skiltin hafi ekki verið um 30 metra frá okkur og því mátti bókstaflega engu muna,“ segir Magnús Kristjánsson, forstjóri Orkusölunnar. Hann var einn níu Íslendinga um borð í vél Scandinavian Airlines sem lenti í hættulegu atviki á flugvellinum í Brussel í Belgíu.
+Stjórnvöld í Tyrklandi hafa óskað eftir því að opna sendiráð á Íslandi.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 07 Feb 2026 06:01:18 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/07-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 07 Feb 2026 06:01:18 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
