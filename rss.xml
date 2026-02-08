@@ -1604,5 +1604,26 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>08.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+Lögmaður manna sem dvöldu í Bakkakoti á Rangárvöllum sem börn segist ekki hafa átt von á svo skjótum viðbrögðum stjórnvalda. Tugir manna og kvenna hafa leitað til hans eftir að Kveikur greindi frá aðstæðum drengja í Bakkakoti sem segjast hafa verið beittir ofbeldi þar.
+Hugmyndir um að tvímenna í herbergjum íbúa hjúkrunarheimila til að bregðast við skorti á legurýmum á Landspítala eru með ólíkindum, að mati Steinunnar Þórðardóttur, formanns Læknafélagsins. Það er lagt til í minnisblaði Landspítala til heilbrigðisráðuneytisins frá því í upphafi árs.
+Stjórnarmaður í Félagi akademískra starfsmanna við Bifröst segir vantrauststillögu gegn rektor skólans enn standa, þrátt fyrir að rektorinn segi niðurstöðu siðanefndar grundvöll sáttar í málinu. Hann er gagnrýninn á að siðanefnd hafi tekið málið fyrir en ekki vísað því frá.
+Tilkynnt var um fjögur efstu sæti á framboðslista Framsóknar í kvöld. Kosið var um fjögur efstu sætin á fundi Framsóknar í dag.
+„Ef við fáum ekki peninga til að fara að ráða núna, við getum ekki auglýst bara í maí af því að við þurfum að þjálfa fólk á nýja kerfið, þá mun þetta landamæraeftirlit fara í bál og brand,“ segir Jóhann Karl Þórisson, aðstoðaryfirlögregluþjónn hjá landamæradeild lögreglunnar á höfuðborgarsvæðinu, í samtali við Morgunblaðið.
+Sautján ára gamli pilturinn sem lést í bílslysi á Miklubraut hét Patrekur Freyr Sveinsson. Hann var liðsmaður í U18 liði Skautafélags Reykjavíkur en félagið birtir í dag samúðarkveðjur til fjölskyldu Patreks.
+Töluvert landrof hefur orðið í Reynisfjöru síðustu daga. Stór bakki hrundi úr hlíðum Reynisfjalls alveg að viðvörunarskiltunum við fjöruna.
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 08 Feb 2026 06:01:28 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/08-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 08 Feb 2026 06:01:28 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
