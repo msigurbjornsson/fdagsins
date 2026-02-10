@@ -1653,5 +1653,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>10.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Margrét Njarðvík Jónsdóttir, rektor Háskólans á Bifröst, ætlar að víkja úr starfi. Mikið hefur gengið á innan veggja skólans eftir að þrír starfsmenn voru kærðir til siðanefndar.
+
+Karlmaður liggur þungt haldinn á sjúkrahúsi eftir að ráðist var á hann á þorrablóti HK sem fram fór í Kórnum í Kópavogi þann 30. janúar. Annar maður sat í gæsluvarðhaldi í um tvo sólarhringa grunaður um verknaðinn en var síðan sleppt úr haldi lögreglu.
+
+Allt virðist dottið í dúnalogn eftir jarðskjálftahrinu síðustu sólarhringa þar sem hundruð jarðskjálfta mældust við Eldey á Reykjaneshrygg. Flestir skjálftarnir voru smáir en þó nokkrir mældust yfir þremur að stærð. Sá stærsti, af stærðinni 3,4, skók hafsbotninn á sunnudaginn.
+
+Eitt mesta landrof í manna minnum hefur orðið í Reynisfjöru í Mýrdal. Landeigandi segir óvíst hvort ásýndin sé breytt til framtíðar. Gjörbreytt landslag blasir nú þar við ferðamönnum en í stað svörtu fjörunnar sem hefur dregið marga víða að blasa nú við steinar úti um allt. Þá hefur sjórinn náð að grafa sig inn í fjöruna og myndað nokkurra metra háan vegg.
+
+Lagt er til að heimild einstaklinga til skattfrjálsrar ráðstöfunar á séreignarsparnaði inn á höfuðstól húsnæðislána verði gerð varanleg í drögum að frumvarpi sem eru í samráðsgátt stjórnvalda.
+
+Ari Edwald verður oddviti Miðflokksins í borgarstjórnarkosningunum í Reykjavík í vor. Hann staðfestir þetta í færslu á samfélagsmiðli.
+
+Eftir langa fjarveru frá íslenska landsliðinu er Gylfi Þór Sigurðsson í landsliðshópnum sem mætir Mexíkó í vináttulandsleik ytra í lok mánaðarins. Hópurinn er nær eingöngu skipaður leikmönnum úr Bestu deildinni.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 10 Feb 2026 06:01:32 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/10-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 10 Feb 2026 06:01:32 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
