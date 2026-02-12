@@ -1711,5 +1711,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>12.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Starfsfólk bráðamóttöku Landspítalans kom saman í dag og fundaði um starfsaðstæður þeirra. Það krefst þess að framkvæmdar verði úttektir á aðbúnaði og áhrifum á sjúklinga.
+
+Tíu eru látnir og að minnsta kosti 25 særðir eftir skotárás sem beindist gegn skóla í norðurhluta Bresku-Kólumbíu í Kanada í gær. Árásarmaðurinn er meðal látnu.
+
+Atlantshafsbandalagið hefur formlega hleypt af stokkunum verkefninu Vörður norðurslóða (e. Arctic sentry) sem er ætlað að auka eftirlit og umsvif hersveita og efla viðbragðsgetu bandalagsins í norðri. Utanríkisráðherra er mætt til Brussel og segir að Íslendingar muni finna fyrir hinu aukna umfangi.
+
+Halla Tómasdóttir forseti Íslands afhenti Íslensku bókmenntaverðlaunin og Íslensku glæpasagnaverðlaunin Blóðdropann við hátíðlega athöfn á Bessastöðum og í beinni útsendingu á RÚV í kvöld.
+
+Hryðjuverkamálið svokallaða verður tekið fyrir í Hæstarétti í dag. Tæpt ár er síðan Landsréttur staðfesti sýknudóm Héraðsdóms Reykjavíkur yfir sakborningunum Sindra Snæ Birgissyni og Ísidór Nathansson af ákæru er varðar hryðjuverk, en þeir voru fundnir sekir um vopnalagabrot.
+
+Stjórn Arion banka leggur til arðgreiðslu sem nemur 11,5 krónum á hlut sem jafngildir 15,3 milljörðum króna. Hagnaður sem tilheyrir hluthöfum bankans var 30,6 milljarðir króna á árinu 2025, samanborið við 26,1 milljarð króna 2024. Arðsemi eiginfjár sem tilheyrir hluthöfum bankans var 14,9 prósent, samanborið við 13,2 prósent 2024.
+
+Um 59% þátttakenda í könnun á viðhorfum Grindvíkinga segja andlega heilsu sína verri en fyrir rýmingu í Grindavík og 51% segir líkamlega heilsu verri. Helmingur þátttakenda hefur nýtt sér sálrænan stuðning og segja hann hafa nýst vel.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 12 Feb 2026 06:01:44 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/12-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 12 Feb 2026 06:01:44 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
