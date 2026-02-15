@@ -1798,5 +1798,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>15.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Netþrjótar komust í upplýsingar um tugi þúsunda fyrrverandi og núverandi skjólstæðinga, starfsmanna og aðstandenda á Grundarheimilum þegar þeir réðust á netþjóna hjúkrunarheimilanna í desember. Interpol og Europol koma að rannsókn málsins ásamt lögreglu.
+
+Sigurður Ingi Jóhannsson gerði uppgang popúlista og öfga að umfjöllunarefni sínu í sinni hinstu ræðu sem formaður Framsóknarflokksins á 38. flokksþinginu sem fer fram í dag og á morgun.
+
+Eitrað var fyrir Alexei Navalní helsta andstæðingi Vladímírs Pútín Rússlandsforseta með froskaeitri. Þetta segja yfirvöld í Bretlandi en eitur þetta mun bera nafnið epibatidine og mun það hafa fundist í sýnum sem tekin voru af líki Navalní, eftir að hann lést í fanganýlendu í Rússlandi fyrir um tveimur árum.
+
+Fjórir eru grunaðir um að hafa í síðasta mánuði svipt mann frelsi sínu, misþyrmt honum í bíl og skilið hann eftir utandyra. Maðurinn var þungt haldinn þegar hann fannst.
+
+Esa, Eftirlitsstofnun EFTA, krefur íslensk stjórnvöld upplýsinga um leyfi veitt til sjókvíaeldis hér á landi án þess að flokkun á ástandi vatnshlota liggi fyrir.
+
+Lucas Pinheiro Braathen vann fyrsta Ólympíugull Brasilíu í sögu Vetrarleika í dag. Hann fagnaði sigri í stórsvigi þar sem okkar maður Jón Erik Stefánsson var á meðal keppenda.
+
+Kjartan Guðmundsson er kominn heim til Íslands rúmum átta vikum eftir að hann lenti í alvarlegu umferðarslysi í Suður-Afríku. Móðir hans og dóttir létust í slysinu. Hann flaug í sjúkraflugvél ásamt bróður sínum og ferðalagið tók hátt í sólarhring.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 15 Feb 2026 06:01:29 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/15-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 15 Feb 2026 06:01:29 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
