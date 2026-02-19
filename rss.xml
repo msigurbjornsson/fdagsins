@@ -1914,5 +1914,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>19.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Staða bráðamóttöku Landspítala er óbreytt, viku eftir krísufund starfsfólks þar sem ástandið var sagt ógna lífi og öryggi fólks. Dæmi eru um að sjúklingar hafi legið í gluggalausu geymslurými þar í tíu daga, heilbrigðisráðherra boðar aðgerðapakka og vonast til að þannig leysist vandinn.
+
+Héraðsdómur Reykjavíkur hefur fallist á kröfu Birtu lífeyrissjóðs að víkja Unni Lilju Hermannsdóttur lögmanni úr stöðu skiptastjóra þrotabús flugfélagsins Play. Birta fór fram á það í desember að Unnur viki vegna meints vanhæfis. Birta var meðal stærstu hluthafa Play.
+
+Mikil loftmengun hefur mælst á höfuðborgarsvæðinu síðustu daga og það sama gæti verið uppi á teningnum næstu daga. Rykbindiefni er ekki til á landinu, ekki er hægt að hreinsa göturnar í frosti og útlit er fyrir áframhaldandi þurrk.
+
+Deilur um stöðu og kjör sendla Wolt hafa vaknað eftir að fulltrúar ASÍ gagnrýndu harðlega starfsemi Wolt á Íslandi. ASÍ heldur því fram að viðskiptamódel fyrirtækisins grafi undan kjarasamningbundnum réttindum. Wolt hafnar ásökununum og segir útreikninga ASÍ ranga.
+
+Bragi Guðbrandsson, sem var forstjóri Barnaverndarstofu í tæpan aldarfjórðung, heyrði fyrst af ofbeldi í garð fósturbarna í Bakkakoti í umfjöllun Kveiks á dögunum. Hann segir að málefni Bakkakots hafi ekki ratað á sitt borð þann tíma sem hann var forstjóri. Hann harmar atburðina og hvetur stjórnvöld til að veita fé í að bæta brotalamir í kerfinu.
+
+Jón Gunnarsson þingmaður Sjálfstæðisflokksins hefur nú beðist afsökunar á glannalegum ummælum sem hann lét falla í heitum umræðum á þingi í gær um Ragnar Þór Ingólfsson félags- og húsnæðismálaráðherra.
+
+Öskudagurinn var haldinn hátíðlegur um allt land í dag og venju samkvæmt fóru börnin á stjá í alls kyns flottum búningum og söfnuðu sælgæti í poka. Þá var dagskrá í skólum landsins víða með öðru sniði og spenningurinn áþreifanlegur.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 19 Feb 2026 06:01:40 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/19-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 19 Feb 2026 06:01:40 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
