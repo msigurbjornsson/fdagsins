@@ -1943,5 +1943,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>20.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Andrew Mountbatten Windsor, bróðir Karls Bretakonungs, var handtekinn í morgun á heimili sínu í Sandringham í Norfolk. Hann er grunaður um misferli í opinberu starfi.
+
+Þorsteinn Pétur Guðjónsson, forstjóri Deloitte á Íslandi, hefur verið sýknaður af ákæru fyrir kynferðisbrot. Honum var gefið að sök að hafa veist að ungri konu á hóteli á Suðurlandi vorið 2023. Hann segir þakklátur því að réttlætið hafi náð fram að ganga í málinu.
+
+Gedirninas Saulys, litháískur maður, hefur verið sakfelldur fyrir að meiri háttar líkamsárás sem leiddi til dauða samlanda hans á Kiðjabergi í Grímsnesi í apríl 2024. Hann var dæmdur í tíu ára fangelsi í Landsrétti í dag.
+
+Landsréttur hefur dæmt Sigurjón Ólafsson, karlmann á sextugsaldri, í níu ára fangelsi fyrir að hafa nauðgað andlegra fatlaðri konu ítrekað og látið aðra menn sem hann var í samskiptum við nauðga henni. Hann var yfirmaður hennar og neyddi son hennar til að fylgjast með kynferðislegum athöfnum þeirra. Hann hlaut ára dóm í héraði, áfrýjaði sjálfur og Landsréttur þyngdi dóminn um eitt ár.
+
+Skipulagsstofnun verður lögð niður og verkefni hennar flutt til Húsnæðis- og mannvirkjastofnunar (HMS) eftir að Alþingi samþykkti frumvarp þess efnis í dag.
+
+Alþingi hefur samþykkt bráðabirgðaákvæði í lögum um sveitarstjórnarkosningar vegna kosninga í Grindavík. Lögin gera það að verkum að þeir Grindvíkingar, sem fluttu lögheimili sín í kjölfar rýmingar þann 10. nóvember 2023, geta nú valið hvort þeir kjósi í nýju sveitarfélagi í kosningum í vor eða í Grindavík.
+
+Herdís Gunnarsdóttir, forstjóri Gæða- og eftirlitsstofnunar velferðarmála (GEV) segir það þyngra en tárum taki að börn sem eru í viðkvæmri stöðu þurfi að þola ofbeldi, eins og menn sem dvöldu í Bakkakoti á barnsaldri hafa lýst. Hún tekur undir orð Braga Guðbrandssonar, fyrrverandi forstjóra Barnaverndarstofu, að aukið fjármagn myndi hjálpa við að leysa ýmis vandamál, en fleira þurfi til.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 20 Feb 2026 06:01:47 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/20-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 20 Feb 2026 06:01:47 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
