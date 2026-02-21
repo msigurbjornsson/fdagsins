@@ -1972,5 +1972,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>21.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Breska ríkisstjórnin íhugar að leggja fram frumvarp sem felur í sér að Andrew Mountbatten-Windsor, fyrrverandi Bretaprins, verði sviptur erfðarétti sínum að bresku krúnunni þegar yfirstandandi lögreglurannsókn á máli hans er lokið.
+
+Hæstiréttur Bandaríkjanna hefur úrskurðað að Donald Trump forseti Bandaríkjanna hafi ekki haft vald til að setja einhliða tolla á fjölda viðskiptaríkja í fyrra. Trump lagði tollana á með vísun í neyðarlög um efnahagsmál sem voru sett árið 1977 en eins og nafnið gefur til kynna átti aðeins að nota þau í neyðartilvikum.
+
+Tveir starfsmenn einnar heilsugæslustöðvar Heilsugæslu höfuðborgarsvæðisins (HH) greindust með berklasmit við skimun á starfsfólki stöðvarinnar. Þetta kemur fram í tilkynningu.
+
+Evrópusambandið samþykkti formlega í gær að skilgreina Íranska byltingarvörðinn sem hryðjuverkasamtök. Það þýðir að samtökin eru nú á hryðjuverkalista ESB og munu sæta þvingunaraðgerðum og refsiákvæðum ESB á grundvelli baráttu gegn hryðjuverkastarfsemi sem Ísland tekur einnig þátt í.
+
+EFTA-dómstóllinn hefur úrskurðað að lögsaga samningsins um Evrópska efnahagssvæðið nái til landgrunns EES-ríkjanna Noregs og Íslands, en ekki aðeins landsvæðis, landhelgi og efnahagslögsögu, eins og norsk stjórnvöld hafa haldið fram.
+
+Dæmi eru um að börn félagsráðgjafa geti ekki gengið ein heim, verið ein heima og séu með svokallaðar krækjur á sínum síma sem sýni lögreglu að þegar þau hringi þurfi að bregðast strax við. Rúmur helmingur félagsráðgjafa greinir frá því í nýrri könnun að hafa verið beittir ofbeldi í starfi og um þriðjungur að þau óttist um fjölskyldur sínar og sérstaklega börn.
+
+Eigandi Norðuráls á Grundartanga gerir ráð fyrir því að álverið munu ná fullum afköstum í lok júlí næstkomandi. Afköst álversins hafa aðeins verið þriðjungur af því sem þau eru vanalega eftir að bilun varð í annarri af tveimur kerlínum þess í október síðastliðnum. Talið var að viðgerð gæti tekið allt að ár.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 21 Feb 2026 06:01:42 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/21-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 21 Feb 2026 06:01:42 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
