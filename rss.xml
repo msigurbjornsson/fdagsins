@@ -2001,5 +2001,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>22.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Haraldur Sigurðsson, betur þekktur sem Halli, er látinn, á 84. ári. Hann lést 18. febrúar eftir nokkur veikindi. Greint er frá andláti Haraldar í Morgunblaðinu í dag.
+
+Samrunaviðræðum Skaga hf. og Íslandsbanka hf. hefur verið slitið. Þetta kemur fram í Kauphallartilkynningu frá Skaga sem send var út síðdegis. 
+
+Donald Trump Bandaríkjaforseti hefur hækkað tolla á öll lönd í heiminum úr tíu prósentum í fimmtán. Hann greinir frá á Truth Social.
+
+Norðmaðurinn Johannes Høsflot Klæbo vann sögu­legan sigur í fimmtíu kíló­metra skíðagöngu karla á Vetrarólympíu­leikunum í dag. Þetta voru sjöttu gull­verð­laun Klæbo í jafn­mörgum greinum á leikunum og slær hann þar með met yfir flest gull­verð­laun á einum og sömu Vetrarólympíu­leikunum.
+
+Um 3.400 manns lögðu leið sína í Hlíðarfjall í Akureyri í dag og nánast jafnmargir í gær. Stjórnendur telja aðsóknina þá mestu frá upphafi talninga og reikna með að helgin verði sú stærsta í sögu skíðasvæðisins.
+
+Frank Booker eldri er látinn 61 árs gamall að aldri. Sonur hans, Frank Aron Booker, greinir frá andláti föður síns núna í morgun.
+
+Stúdentar við háskóla víðs vegar um Íran hafa staðið fyrir mótmælum gegn klerkastjórninni í dag. Mótmælin eru þau fyrstu síðan mótmælahrinunni, sem hófst í lok desember og áætlað er að hafi kostað þrjátíu þúsund manns lífið, lauk. 
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 22 Feb 2026 06:01:50 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/22-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 22 Feb 2026 06:01:50 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
