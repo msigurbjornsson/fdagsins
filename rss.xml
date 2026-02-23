@@ -2030,5 +2030,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>23.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Maðurinn sem var skotinn til bana við Mar-a-Lago, glæsihýsi Donalds Trumps Bandaríkjaforseta, í dag var 21 árs gamall og hafði nýlega stofnað fyrirtæki sem sérhæfði sig í handteiknuðum listrænum myndum af golfvöllum.
+
+Slökkvilið höfuðborgarsvæðisins náði um kvöldmatarleytið að slökkva sinueld sem kviknaði við Elliðavatn síðdegis. Í fyrstu var talið að ekki væri mikill eldur og var þá einn slökkviliðsbíll sendur á staðinn til að kanna aðstæður. Fljótt kom í ljós að þetta var mikill eldur. Fljótt var búið að senda alla slökkviliðsmenn á vakt að berjast við eldinn og kalla út aukamannskap.
+
+Glæpaforinginn Rubén Nemesio Oseguera, sem var betur þekktur sem El Mencho, lést fyrr í dag eftir að hafa verið skotinn í bardaga við Mexíkóska herinn.
+
+Farþegar í á sjötta hundrað farartækja lentu í vandræðum undir Eyjafjöllum í gærkvöldi vegna skafrennings. Það var samvinnuverk að koma bílunum aftur af stað sem björgunarsveitir, Vegagerðin og bændur á svæðinu tóku þátt í.
+
+Meðlimir Vöku í Stúdentaráði Háskóla Íslands, sem eru í meirihluta í ráðinu, hafa lagt fram tillögu um að lýst verði yfir vantrausti á hendur Silju Báru Ómarsdóttur rektor Háskólans. Ástæða þess er meint ábyrgðarleysi í hækkun skrásetningargjalda.
+
+Volodymyr Zelensky Úkraínuforseti segir í viðtali við Jeremy Bowen á BBC að Rússlandsforseti hafi hleypt þriðju heimsstyrjöldinni af stað með innrásinni fyrir rétt tæpum fjórum árum.
+
+Líf Magneudóttir, núverandi oddviti Vinstri grænna í Reykjavík, sigraði í forvali flokksins fyrir komandi sveitarstjórnarkosningar. Hún mun vera í öðru sæti á sameiginlegum lista VG og Vors til Vinstri. Sanna Magdalena Mörtudóttir mun hins vegar leiða listann.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 23 Feb 2026 06:01:38 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/23-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 23 Feb 2026 06:01:38 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
