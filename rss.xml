@@ -2088,5 +2088,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>25.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Kristrún Frostadóttir, forsætisráðherra Íslands, er nú stödd í Kænugarði þar sem hún mun í dag verða viðstödd minningarathafnir vegna þess að fjögur ár eru liðin frá því að Rússar réðust inn í Úkraínu.
+
+Íslenska frumkvöðlafyrirtækið Kerecis mun í haust greiða 40 milljarða króna eingreiðslu í ríkissjóð Íslands. Um er að ræða skatt vegna kaupa Coloplast, móðurfélags Kerecis, á hugverkaréttindum dótturfyrirækisins.
+
+Haraldur Noregskonungur hefur verið lagður inn á sjúkrahús þar sem hann er nú staddur á Tenerife. Ástæðan er sýking og vökvaskortur en að öðru leyti er ástand konungsins gott.
+
+Samgöngustofa hefur ógilt skoðanir á gúmmíbjörgunarbátum sem einn þjónustuaðili framkvæmdi árið 2025 í framhaldi af auknu eftirliti. Ákvörðunin byggir á frávikum sem komu í ljós við nýlega útttekt.
+
+Gló stuðningsfélag hefur ekki fengið áframhaldandi styrki til aukaverkefna á vegum Reykjadals fyrir næstkomandi sumar. Ekkert verður því af svokölluðum Ævintýrabúðum og Vinahópum í sumar.
+
+Miðflokknum fatast flugið og Sjálfstæðisflokkurinn nær vopnum sínum í nýrri könnun Maskínu. Niðurstöðurnar voru birtar í kvöldfréttum Sýnar í kvöld en meðal annarra tíðinda eru þau að Píratar mælast í þetta skiptið með meira fylgi en Flokkur fólksins.
+
+Lögreglan á Suðurnesjum auk lögreglunnar á höfuðborgarsvæðinu biðlar til vegfarenda um að taka ekki óþarfa áhættu og fara ekki af stað á vanbúnum bílum þar sem spáð sé snjókomu víða á suðvestanverðu landinu á morgun með vetrarfærð. Þá er fólk hvatt til að fylgjast vel með færð og veðurspá.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 25 Feb 2026 06:01:34 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/25-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 25 Feb 2026 06:01:34 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
