@@ -2117,5 +2117,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>26.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Forsætisráðherra Póllands talaði ítrekað fyrir því að Ísland myndi ganga í Evrópusambandið á sameiginlegum blaðamannafundi hans með Kristrúnu Frostadóttur, forsætisráðherra Íslands. Hún ítrekaði að ákvörðun um áframhaldandi viðræður við ESB ættu eftir að fara í þjóðaratkvæðagreiðslu. Hún tók fram að atkvæðagreiðslan verði á næstu mánuðum.
+
+Veðurstofan hefur gefið út gula veðurviðvörun á höfuðborgarsvæðinu vegna talsverðrar eða mikillar snjókomu.
+
+Runólfur Pálsson, forstjóri Landspítalans, segir til skoðunar að færa hluta af starfsemi göngudeildar spítalans í annað húsnæði. Stöðugt verði að vinna að nýjum úrræðum. Langan tíma taki að hrinda þeim í framkvæmd og þegar þau eru tilbúin til notkunar hafi mikið bæst í hóp þeirra sem spítalinn verður að þjónusta.
+
+Demókratar saka ríkisstjórn Donalds Trumps um mestu yfirhylmingu í sögunni vegna nýrra upplýsinga um óbirt gögn í Epstein-málinu.
+
+Marius Borg Høiby, stjúpsonur Hákonar krónprins Noregs, segir að þó að hann eigi í vandræðum með skap sitt hafi hann aldrei beitt nokkurn mann ofbeldi. Hann segir framburð fyrrverandi kærustu sinnar um samband þeirra ekki réttan.
+
+Tólf starfsmönnum var sagt upp störfum hjá Sjúkratryggingum Íslands í dag. Í tilkynningu frá stofnuninni segir að uppsagnirnar séu til að auka skilvirkni og efla lykilþætti í starfseminni.
+
+Lögreglan á höfuðborgarsvæðinu hefur úrskurðað grískan karlmann sem grunaður er um að hafa ráðið portúgölskum manni bana í Kópavogi, í áframhaldandi gæsluvarðhald.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 26 Feb 2026 06:01:57 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/26-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 26 Feb 2026 06:01:57 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
