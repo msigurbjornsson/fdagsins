@@ -2146,5 +2146,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>27.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Um sex hundruð farþegar um borð í fjórum Icelandair-vélum eru enn fastir á Akureyri eftir að fimmtán vélum flugfélagsins var í dag vísað á varaflugvelli vegna óveðurs í Keflavík. Nú eru áhafnir vélanna runnar út á tíma og nýjar áhafnir á leið með flugi frá Reykjavík.
+
+Verðbólga mældist 5,2 prósent í febrúar, eftir að hafa einnig mælst 5,2 prósent í janúar.
+
+Landsréttur hefur staðfest sakfellingu Steinu Árnadóttur hjúkrunarfræðingur fyrir manndráp af gáleysi fyrir hlut hennar í andláti sjúklings á geðdeild Landspítalans árið 2021. Henni er ekki gerð refsing.
+
+Dóra Björt Guðjónsdóttir borgarfulltrúi fékk ekki sæti á lista Samfylkingarinnar í borginni fyrir sveitarstjórnarkosningarnar í maí. Dóra skipti yfir í Samfylkinguna úr Pírötum í lok síðasta árs.
+
+75 óskilorðsbundnar fangelsisrefsingar fyrndust í fyrra og 98 árið þar á undan. Vel á áttunda hundrað bíða nú refsivistar. Fangelsin eru yfirfull, segir forstjóri Fangelsismálastofnunar. 84% þeirra sem hófu gæsluvarðhald í fyrra voru erlendir ríkisborgarar.
+
+Strætisvagn fór út af veginum á Holtavörðuheiði á sjöunda tímanum í dag. Björgunarsveitirnar Húnar á Hvammstanga, Blanda á Blönduósi og Heiðar í Borgarfirði voru kallaðar út til aðstoða um fimmtán manns sem voru í vagninum.
+
+Skólahald í öllum tíu árgöngum Ölduselsskóla í Breiðholti í Reykjavík hefur verið fellt niður á morgun með skömmum fyrirvara með hagsmuni og öryggi barna og starfsfólks að leiðarljósi. Foreldrar barna í skólanum skilja hvorki upp né niður og velta fyrir sér hvað hafi eiginlega komið upp á.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 27 Feb 2026 06:01:57 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/27-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 27 Feb 2026 06:01:57 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
