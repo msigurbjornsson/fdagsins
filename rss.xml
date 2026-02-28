@@ -2175,5 +2175,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>28.02.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Íslenska karlalandsliðið í körfubolta vann í kvöld sinn fyrsta sigur á Litháen síðan í janúar 1992. Íslenska liðið lenti mest 21 stigi undir í leiknum en tryggði sér 86-85 sigur með því að vinna lokaleikhlutann 32-17.
+
+Heildarkröfur í þrotabú flugfélagsins Play sem varð gjaldþrota í september nema um 21 milljarði króna. Ólíklegt er að nokkuð fáist upp í almennar kröfur í búið en meðal þeirra er sekt frá Umhverfisstofnun upp á 2,2 milljarða króna.
+
+Reykjavíkurborg sleit samningi við verktaka sem vann að framkvæmdum í Ölduselsskóla fyrirvaralaust á miðvikudag. Skólinn var lokaður í dag þar sem starfsfólk treysti sér ekki til að vinna við þær aðstæður sem sköpuðust og fimm hundruð börn sátu heima.
+
+Ríkisstjórnin ræddi aðgerðir gegn verðbólgunni á reglulegum ríkisstjórnarfundi sínum í morgun og ætlar að blása til aðgerðar. Fundað verður með aðilum vinnumarkaðarins eftir helgi.
+
+Bill Clinton, fyrrverandi Bandaríkjaforseti, segist ekki hafa haft neina hugmynd um glæpi kynferðisbrotamannsins og barnaníðingsins Jeffreys Epsteins. Hann ber vitni fyrir eftirlitsnefnd fulltrúadeildar Bandaríkjaþings um samband sitt við hann en vitnaleiðslan er fyrir luktum dyrum.
+
+Samfylkingin fengi mest fylgi ef kosið yrði til borgarstjórnar nú, samkvæmt nýrri skoðanakönnun Maskínu. Fylgi hennar og Sjálfstæðisflokksins minnkar milli kannana meðan fylgi Miðflokksins er enn á uppleið.
+
+Stjórnvöld ræða við Spán og Pólland um að taka við föngum þaðan, sem afplána hér á landi. Við ætlum að koma þessum mönnum úr landi, segir dómsmálaráðherra.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 28 Feb 2026 06:01:58 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/28-02-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 28 Feb 2026 06:01:58 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
