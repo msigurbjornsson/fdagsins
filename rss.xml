@@ -2204,5 +2204,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>01.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Ayatollah Ali Khamenei, æðsti leiðtogi Íran, er sagður látinn eftir umfangsmiklar loftárásir Ísraelsmanna og Bandaríkjamanna á Íran í dag. Þetta segir Bandaríkjaforseti en aðsetur Khamenei í Teheran var lagt í rúst í árásunum í dag.
+
+Haukar urðu í kvöld bikarmeistarar í handbolta karla eftir sannfærandi 28-21 sigur liðsins gegn ÍR í úrslitaleik keppninnar í Kuehne+Nagel höllin að Ásvöllum. Þetta er í áttunda skiptið sem Haukar verða bikarmeistarar í karlaflokki í handbolta.
+
+Valur er bikarmeistari kvenna í handbolta árið 2026 eftir 23-19 sigur á Haukum í úrslitaleik að Ásvöllum.
+
+Andri Þór Guðmundsson hefur ákveðið að láta af störfum eftir að hafa starfað sem forstjóri Ölgerðarinnar, sem mun nú heita Bera, í rúmlega tvo áratugi. Hann hyggst þó ekki fara langt enda býður hann sig fram til stjórnarformennsku í móðurfélaginu Beru.
+
+Hildur Björnsdóttir, Bjarni Eggerts Guðjónsson, Brynjar Þór Níelsson, Ragnhildur Alda María Vilhjálmsdóttir og Rúnar Freyr Gíslason verða í efstu fimm sætunum á lista Sjálfstæðisflokksins í Reykjavík í komandi borgarstjórnarkosningum. Listinn var kynntur í Sjálfstæðissalnum við Austurvöll nú fyrir stundu.
+
+MR-ingurinn Illugi Gunnarsson var í dag kjörinn nýr formaður Ungra vinstri grænna. Hann er sonur Katrínar Jakobsdóttur, fyrrverandi flokksformanns og forsætisráðherra.
+
+Elvar Már Friðriksson kórónaði stórkostlega frammistöðu sína gegn Litáen í undankeppni HM 2027 með því að skora sigurkörfu Íslands gegn þessari öflugu körfuboltaþjóð í þann mund sem leiktíminn rann út. Gærkvöldið var eitt það eftirminnilegasta í sögu íslenska körfuboltalandsliðsins og sigurinn einn sá fræknasti.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 01 Mar 2026 06:02:12 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/01-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 01 Mar 2026 06:02:12 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
