@@ -2233,5 +2233,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>02.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Davíð Oddsson ritstjóri Morgunblaðsins og fyrrverandi forsætisráðherra lést á heimili sínu í gær, 78 ára að aldri. Með honum er genginn einn af áhrifamestu stjórnmálamönnum landsins um áratugaskeið.
+
+Íranir heita hefndum eftir að fjöldi háttsettra manna, þar á meðal æðsti leiðtogi landsins, var felldur í árásum Ísraels og Bandaríkjanna í gær. Ísraelsmenn segjast hafa drepið æðstaklerkinn í fyrstu sprengjuhríðinni í gær, sem lagði aðsetur hans í eyði.
+
+Appelsínugul viðvörun tekur gildi á Austurlandi að Glettingi og Austfjörðum klukkan 13 í dag en þar er spáð norðvestan 20-28 m/s með snjókomu og skafrenningi. Á þessum stöðum verður ekkert ferðaveður og er staðbundið foktjón mögulegt.
+
+Heimsmarkaðsverð á olíu hefur snarhækkað um helgina eftir að Bandaríkin og Ísrael hófu árásir á Íran að morgni laugardags. Verð á tunnu af Brent-hráolíu hafði hækkað um 13% þegar markaðir opnuðu í Asíu að morgni mánudags að staðartíma, frá því á föstudaginn þegar markaðir lokuðu.
+
+Tveir eru látnir og að minnsta kosti 14 eru særðir, þar af þrír alvarlega, eftir skotárás á bar í Austin, Texas í Bandaríkjunum í gær. Maðurinn kom keyrandi á bíl og hóf skothríð úr bíl sínum á fólk sem stóð fyrir utan barinn.
+
+Dómsmálaráðherra segir ótímabært að segja hvort Helga Jenssyni, lögreglustjóra á Vestfjörðum, verði vikið frá störfum eftir að kvartað var undan hegðun hans á þorrablóti Flateyringa – Stútungi – fyrr í mánuðinum. Kvartanirnar sneru annars vegar að kynferðislegri áreitni og hins vegar að því að hann hefði ráðist líkamlega að manni á þorrablótinu.
+
+Landsliðsþjálfarinn Craig Pedersen hefur gert tvær breytingar á leikmannahóp körfuboltalandsliðsins. Liðið mætir Litáen á mánudagskvöld en Ísland vann sögufrægan sigur gegn sama liði á föstudaginn.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 02 Mar 2026 06:02:08 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/02-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 02 Mar 2026 06:02:08 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
