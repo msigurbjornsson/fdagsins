@@ -2291,5 +2291,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>04.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Davíð Oddsson ritstjóri, fyrrverandi forsætisráðherra og formaður Sjálfstæðisflokksins, sem lést að heimili sínu á sunnudaginn, 78 ára að aldri, mun hljóta opinbera útför. Banamein Davíðs var hjartaáfall.
+
+Fyrrverandi formaður stjórnar Viðreisnar í Reykjavík er sakaður um fjárdrátt og að hafa millifært fjórar til fimm milljónir króna úr sjóðum félagsins. Málið hefur verið kært til lögreglu og steig formaðurinn til hliðar um helgina.
+
+Um 140 íslenskir ríkisborgarar eru staddir á áhrifasvæðum átakanna í Miðausturlöndum þar sem ófriður breiðist út með hraði. Borgaraþjónusta utanríkisráðuneytisins segir í svari við fyrirspurn fréttastofu að hún sé í virku samtali við hópinn.
+
+Forstjóri atNorth á ekki von á að sala fyrirtækisins leiði til breytinga á starfsemi þess hér á landi. Bandaríska gagnaversfyrirtækið Equinix og kanadíski lífeyrissjóðurinn Canada Pension Plan Investment Board gengu frá kaupum á atNorth í síðari hluta febrúar.
+
+Landsvirkjun hyggst verja 190 milljörðum króna í framkvæmdir á næstu fimm árum. Þrátt fyrir stórhuga áform er áfram stefnt á að borga 15 til 20 milljarða króna í arð á hverju ári.
+
+Atvinnuvegaráðherra varði lögmæti frumvarps um afturköllun kvótasetningar á grásleppu á fundi atvinnuveganefndar. Hún hyggst leyfa með reglugerð að net séu tekin upp í vondum veðrum.
+
+Engan sakaði þegar allt tiltækt lið Slökkviliðs höfuðborgarsvæðisins var kallað út um klukkan fjögur í nótt vegna eldsvoða á neðstu hæð fjölbýlishúss í Grafarholti. Varðstjóri hjá slökkviliðinu segir í íbúðina hafa verið alelda en að vel hafi gengið að slökkva eldinn.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 04 Mar 2026 06:02:11 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/04-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 04 Mar 2026 06:02:11 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
