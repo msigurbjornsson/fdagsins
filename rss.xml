@@ -2320,5 +2320,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>05.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Varnarmálaráðuneyti Bandaríkjanna birti í dag er sagt sýna það þegar bandarískur kafbátur grandar írönsku herskipi. Minnst 140 úr áhöfn er saknað en það tókst að bjarga nokkrum tugum manna.
+
+Lögreglan á höfuðborgarsvæðinu ætlar að taka ummæli kanslara kaþólsku kirkjunnar til skoðunar og meta hvort tilefni sé til að hefja frumkvæðisathugun. Dómsmálaráðherra hefur beðið skrifstofu jafnréttismála að gera úttekt á umfangi bælingarmeðferðar sem allsherjar-og menntamálanefnd mæltist til að yrði gerð fyrir þremur árum.
+
+Átján Íslendingar hafa óskað eftir því að fá sæti í skipulögðum björgunarferðum frá Jórdaníu og Sádí-Arabíu á morgun og á föstudag. Ekki liggur fyrir hversu mörg sæti verða í boði fyrir Íslendinga í ferðunum.
+
+Sex Íslendingar, fimm karlar og ein kona, hafa verið ákærð fyrir sérstaklega hættulega og stórfellda líkamsárás, frelsissviptingu, ólögmæta nauðung og rán í Reykholti fyrir tveimur árum.
+
+Frumvarp Lilju Rafneyjar Magnúsdóttur um afturköllun kvótasetningar á grásleppu var samþykkt á Alþingi í dag. Á næsta fiskveiðiári verða veiðar á grásleppu því aftur byggðar á sóknardögum, ekki kvóta.
+
+Meirihluti velferðarnefndar hefur afgreitt umdeilt frumvarp um tengingu bóta almannatrygginga við launavísitölu og fer það til þriðju og síðustu umræðu.
+
+Bráðamóttaka Landspítalans er yfirfull og hefur ástandið aldrei verið verra að mati starfsfólks. Til stendur að opna nýtt hjúkrunarheimili, eða svokallað biðrými, í Urðarhvarfi í Kópavogi á næstu vikum. Rýmið á að geta tekið inn allt að 100 sjúklinga í senn.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 05 Mar 2026 06:02:11 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/05-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 05 Mar 2026 06:02:11 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
