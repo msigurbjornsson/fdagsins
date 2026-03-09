@@ -2436,5 +2436,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>09.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Mojtaba Khamenei er nýr æðstiklerkur Íran. Hann tekur við af föður sínum, Ayatollah Ali Khamenei, sem lést í loftárásum Ísraelsmanna og Bandaríkjamanna þann 28. febrúar.
+
+Rósa Björk Brynjólfsdóttir var kjörin formaður Vinstri hreyfingarinnar – græns framboðs á landsfundi flokksins í dag. Hún fékk 95 atkvæði af 101. Hlynur Már Ragnheiðarson sóttist einnig eftir formannskjöri.
+
+Talið er að sprengingin við bandaríska sendiráðið í Ósló í nótt hafi verið skipulögð aðgerð og eitt af því sem er til rannsóknar er hvort það tengist hryðjuverkum. Aðrir möguleikar eru einnig í stöðunni. Enginn er í haldi.
+
+Innviðaráðherra hefur áhyggjur af lækkun hlutabréfaverðs Icelandair. Gengi hlutabréfa í Icelandair hefur lækkað um tuttugu prósent frá áramótum.
+
+Hrottafengnu ofbeldi er lýst gegn maltneskum karlmanni sem var frelsissviptur árið 2024. Sex hafa verið ákærðir fyrir verknaðinn en eftir að hafa neytt hann til að millifæra átján milljónir króna þvinguðu þau hann til að fara úr landi.
+
+Allt of mörg tilvik eru um rangar rukkanir vegna kílómetragjaldsins sem tekið var upp um sl. áramót og segir Runólfur Ólafsson, framkvæmdastjóri Félags íslenskra bifreiðaeigenda, að Skatturinn hafi viðurkennt að tæknilegir gallar séu í kerfunum sem unnið er eftir við álagningu gjaldsins.
+
+Utanríkisráðuneyti Bandaríkjanna hefur í öryggisskyni skipað því starfsfólki sem ekki sinnir brýnustu starfsskyldum og fjölskyldum þess að yfirgefa sendiráð landsins í Sádi Arabíu. Íranir hafa ítrekað gert árásir á Sádi Arabíu í hefndarskyni fyrir atlögur herja Bandaríkjanna og Ísraels.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 09 Mar 2026 06:01:58 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/09-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 09 Mar 2026 06:01:58 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
