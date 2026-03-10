@@ -2465,5 +2465,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>10.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Þorgerður Katrín Gunnarsdóttir utanríkisráðherra mælti á Alþingi í gær fyrir þingsályktunartillögu um þjóðaratkvæðagreiðslu um hvort taka ætti upp aðildarviðræður við Evrópusambandið (ESB) á ný.
+
+Donald Trump Bandaríkjaforseti segir að átökin við Íran verði yfirstaðin „innan tíðar“ en að Bandaríkin eigi enn eftir að hrósa fullnaðarsigri. Hann segir Bandaríkjaher hafa tekist að eyðileggja allt að níutíu prósent af hernaðarinnviðum í landinu undanfarna tíu daga.
+
+Vinna hófst við niðurrif altjónaðra húsa í Grindavík í morgun. Verktakinn segir tilfinningarnar blendnar. Hann ætli að fara áfram á hnefanum líkt og hann hafi gert frá rýmingu bæjarins. Þá opnar matvöruverslun í bænum á næstu dögum en engin slík hefur verið í Grindavík í rúm tvö ár.
+
+Verð á hráolíu lækkaði um næstum sex af hundraði á Bandaríkjamarkaði eftir óvænta yfirlýsingu Donalds Trump forseta um að stríðinu gegn Íran lyki senn. Á ellefta tímanum í kvöld var tunnan af West Texas Intermediate komin niður í rúma 89 bandaríkjadali á tunnuna eftir að hafa farið yfir 119 dali fyrr í dag.
+
+Þrír menn eru í haldi lögreglu grunaðir um kynferðisbrot gegn konu á þrítugsaldri á hóteli á Akureyri aðfaranótt sunnudags.
+
+Þátttaka kvenna í skimunum fyrir brjóstakrabbameini og leghálskrabbameini hefur aukist verulega síðustu ár og nálgast sett markmið um þátttöku. Skimanirnar fara fram á heilsugæslustöðvum um land allt.
+
+Nýliðinn febrúar var sá fimmti heitasti á heimsvísu frá því mælingar hófust og einkenndist af öfgum með úrhellisrigningum og flóðum í vesturhluta Evrópu.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Tue, 10 Mar 2026 06:01:56 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/10-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Tue, 10 Mar 2026 06:01:56 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
