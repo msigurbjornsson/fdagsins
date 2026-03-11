@@ -2494,5 +2494,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>11.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Bandaríkjaher segist hafa grandað sextán skipum sem leggja tundurdufl í eigu Írana. Herinn birti myndskeið af árásunum.
+
+Evrópumálin eru komin kyrfilega á dagskrá eftir að ríkisstjórnin kynnti á föstudag þingsályktunartillögu um þjóðaratkvæðagreiðslu í lok ágúst. Spurt verður: „Á að halda áfram viðræðum um aðild Íslands að Evrópusambandinu?“
+
+Stúlkan sem lögreglan á Vesturlandi og björgunarsveitir leituðu að í gærkvöldi er fundin.
+
+Lögreglan á Akureyri hefur til rannsóknar kynferðisbrot sem átti sér stað í bænum aðfaranótt sunnudags. Fleiri en einn sakborningur eru grunaðir vegna málsins. 
+
+Kona, sem er grunuð um að hafa banað dóttur sinni og eiginmanni, verður áfram í farbanni til 30. mars. Þetta kemur fram í nýlega birtum úrskurði Landsréttar.
+
+Sex eru látnir og fimm eru slasaðir, þar af þrír alvarlega, eftir að eldur kom upp í rútu í Sviss í gærkvöld. Rútan var í smábænum Kerzers sem er staðsettur um 20 kílómetra vestur af höfuðborginni Bern.
+
+Samlagsfélag Torfa Fjalars Jónassonar hjartalæknis og Ölmu Möller, þingmanns Samfylkingarinnar og núverandi heilbrigðisráðherra, fékk greiddar tæplega 30 milljónir króna í verktakagreiðslur fyrir svokölluð ferliverk á Sjúkrahúsinu á Akureyri á árunum 2023 til 2025.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Wed, 11 Mar 2026 06:01:55 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/11-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Wed, 11 Mar 2026 06:01:55 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
