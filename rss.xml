@@ -2523,5 +2523,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>12.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Hæstiréttur hefur ómerkt sýknudóm þeirra Sindra Snæs Birgissonar og Ísidórs Nathanssonar í hryðjuverkamálinu svokallaða. Málinu var vísað aftur til Landsréttar til meðferðar.
+
+Verðbólguhorfur hafa versnað og því er viðbúið að Seðlabankinn hækki stýrivexti sína á miðvikudag eftir viku, að mati Greiningardeildar Íslandsbanka. Stýrivextir voru lækkaðir úr 7,50 í 7,25 prósent í nóvember í fyrra en greiningardeildin spáir því að sú lækkun gangi til baka á næsta fundi peningastefnunefndar Seðlabankans.
+
+Stefán Vagn Stefánsson er nýr þingflokksformaður Framsóknar, en tillaga þess efnis var samþykkt á þingflokksfundi flokksins á Alþingi í dag. Hann tekur við af Ingibjörgu Isaksen. Á þingflokksfundinum var einnig samþykkt að Þórarinn Ingi Pétursson, þingmaður Norðausturkjördæmis yrði varaþingflokksformaður.
+
+Kjartan Magnússon fyrrverandi borgarfulltrúi Sjálfstæðisflokksins sem gekk til liðs við Miðflokkinn verður formaður nýs borgarstjórnarflokks óháðra sem tekur formlega til starfa á föstudaginn. Auk Kjartans eru í flokknum Marta Guðjónsdóttir, sem einnig var borgarfulltrúi Sjálfstæðisflokksins og Helgi Áss Grétarsson 1. varaborgarfulltrúi Sjálfstæðisflokksins sem gekk til liðs við Miðflokkinn í janúar.
+
+Í nýrri skýrslu um Hafrannsóknastofnun er bent á slæma vinnustaðamenningu, óljósa forgangsröðun verkefna og reynsluleysi forstjóra af stjórnun. Lagt er til að lögbundið hlutverk stofnunarinnar verði einfaldað og skýrt með áherslu á vísindadrifna ráðgjöf og grunnrannsóknir.
+
+Ráðherra menningarmála vill hækka hámarksrefsingu fyrir höfundalagabrot úr tveggja ára fangelsi í sex. Lágur refsirammi endurspegli ekki alvarleika brotanna og það grafi undan kvikmynda- og sjónvarpsframleiðslu hér á landi.
+
+Hljómsveitin Pearl Jam segist standa með íslensku þjóðinni í baráttunni fyrir því að binda enda á laxeldi í opnum sjókvíum. Í færslu á Instagram hvetur hljómsveitin aðdáendur til að skrifa undir undirskriftalista þess efnis.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Thu, 12 Mar 2026 06:02:07 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/12-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Thu, 12 Mar 2026 06:02:07 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
