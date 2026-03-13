@@ -2552,5 +2552,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>13.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Síminn og Sýn hafa náð samkomulagi um að Síminn kaupi alla vef- og útvarpsmiðla Sýnar. Heildarvirði miðlanna er sagt um 5,2 milljarðar króna. Viðskiptin eru sögð háð niðurstöðum áreiðanaleikakönnunar og samþykki samkeppnisyfirvalda.
+
+Íslensk stjórnvöld taka nú þátt í máli gegn Ísrael fyrir Aþjóðadómstólnum vegna stríðsreksturs þess á Gasaströndinni. Þetta er í fyrsta skipti sem Ísland tekur þátt í málarekstri af þessu tagi.
+
+Heimsmarkaðsverð á olíu hefur hækkað mikið síðan Ísrael og Bandaríkin hófu árásir á Íran 28. febrúar. Hormússund er lokað fyrir alla olíuflutninga og því er ekki hægt að anna eftirspurn á heimsmörkuðum. Verð á Brent hráolíutunnu er nú yfir 100 dollurum sem hefur ekki gerst síðan í ágúst 2022.
+
+Þó nokkur snjóflóð hafa fallið á norðan­verðum Vest­fjörðum í dag en ekki er talin hætta í byggð sem stendur. Flat­eyrar­vegi verður lokað klukkan 20 í kvöld vegna snjóflóða­hættu. Einnig er varað við aðstæðum á Norðvestur­landi og við Hellis­heiði.
+
+Valur vann 28-34 á útivelli gegn ÍBV og tryggði sér deildarmeistaratitilinn í lokaumferð Olís deildar karla. ÍR er fallið úr Olís-deild karla eftir tap gegn FH og er ljóst að liðið leikur í næstefstu deild á næsta tímabili.
+
+Meðalbiðtími eftir næsta lausa tíma hjá heimilislækni á höfuðborgarsvæðinu er að jafnaði 27 dagar samkvæmt nýrri úttekt Viðskiptaráðs. Aðeins tvær heilsugæslur standast viðmiði landlæknis.
+
+Íslenska ríkið var sýknað af bótakröfu aðstandenda ungrar konu sem lést þegar tveir lögreglumenn höfðu afskipti af henni þar sem hún var í geðrofi árið 2019. Héraðsdómur taldi lögreglumennina ekki hafa getað séð fyrir afleiðingar afskipta sinna af henni.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Fri, 13 Mar 2026 06:02:40 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/13-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Fri, 13 Mar 2026 06:02:40 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
