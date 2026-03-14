@@ -2581,5 +2581,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>14.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Davíð Oddsson, fyrrverandi forsætisráðherra, borgarstjóri, seðlabankastjóri og ritstjóri Morgunblaðsins, var jarðsunginn frá Hallgrímskirkju í dag.
+
+Kjartan Kjartansson, blaðamaður Vísis, hlaut blaðamannaverðlaun ársins 2025 fyrir umfjöllun sína um loftslagsmál. 
+
+Karlmaður hefur verið dæmdur í átta ára fangelsi fyrir að nauðga sex ára stúlku tvívegis og eiginkonu sinni ítrekað. Hann var einnig dæmdur fyrir að hafa ljósmyndað athæfi sitt og birt ljósmyndir af því á netinu og að hafa í fórum sínum barnaníðsefni, sem sýnir meðal annars kornabörn.
+
+Hjálmar H. Ragnarsson, tónskáld og fyrrverandi rektor Listaháskólans, er látinn, 74 ára að aldri. Hjálmar lést á líknardeild Landspítalans í nótt. Hjálmar starfaði sem tónskáld, söngstjóri, kennari og var rektor LHÍ til fimmtán ára auk þess sem hann tók virkan þátt í félagsmálum listamanna. 
+
+Bandaríski herinn gerði miklar árásir á Kharg-eyju norðarlega í Persaflóa í gær. Nær allur flutningur á hráolíu fer um eyjuna. Donald Trump Bandaríkjaforseti greindi frá árásunum í færslu á samfélagsmiðlinum Truth Social, og sagði árásirnar vera einar mestu árásir sögunnar í Mið-Austurlöndum og að hernaðarleg skotmörk hefðu verið þurrkuð út í krúnudjásni Írans, á Kharg-eyju.
+
+Allir sex í áhöfn bandarískrar eldsneytisflutningaflugvélar sem brotlenti í Írak í gær eru látnir. Ástæður slyssins eru enn til rannsóknar en svo virðist sem tvær flugvélar af gerðinni KC-135 havi skollið saman við dælingu eldsneytis í háloftunum yfir Írak í gær. Önnur hafi þá hrapað til jarðar en flugmönnum hinnar tókst að lenda í Ísrael.
+
+Grindavík tryggði sér deildarmeistaratitilinn með mögnuðum 94-88 sigri á Stjörnunni í kvöld í 20. umferð Bónus deild karla. Stjarnan var lengst af yfir í leiknum en Grindvíkingar sýndu mikinn karakter og snéru leiknum sér í vil undir lok leiksins.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sat, 14 Mar 2026 06:02:19 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/14-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sat, 14 Mar 2026 06:02:19 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
