@@ -2610,5 +2610,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>15.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Líbönsk stjórnvöld hafa samþykkt tillögu frá Frökkum sem leggur grunn að friðarviðræðum við Ísrael. Tillögurnar eru sagðar kveða á um að Líbanon viðurkenni Ísrael sem ríki en Ísraelsmenn búa sig nú undir aukinn landhernað í Líbanon í von um að leysa upp Hezbolla.
+
+Bandaríkin gerðu árás á aðalútflutningshöfn Írana í nótt og írönsk stjórnvöld hóta nú að ráðast á hafnir í Sameinuðu arabísku furstadæmunum, sem gæti valdið talsverðri stigmögnun á stríðinu í Mið-Austurlöndum. Bandaríkjaforseti heldur því fram að Bretar, Kínverjar og Frakkar ætli meðal annars að aðstoða við að tryggja örugga olíuflutninga um Hormússund en téð ríki eiga enn eftir að staðfesta það. Enn hefur ekkert sést til æðstaklerks Írans.
+
+Mjög stórt snjóflóð féll fyrir utan Siglufjörð í nótt en Siglufjarðarvegi hefur verið lokað frá Ketilási til Strákaganga vegna þessa. Hættustig vegna snjóflóða er nú í gildi á norðanverðum Tröllaskaga.
+
+Isavia lokaði í nótt öllum þremur verslunum Rammagerðarinnar í Flugstöð Leifs Eiríkssonar, þrátt fyrir að félagið hafi fengið greiðsluskjól samkvæmt dómaraúrskurði. Gerðist þetta í kjölfar þess að framkvæmdastjóri verslunarinnar gagnrýndi framferði flugvallarins og sagðist ætla að fara fram á lögbann á hendur ríkisfyrirtækinu.
+
+Stórtónleikar Laufeyjar í Kórnum í Kópavogi í kvöld voru töfrum líkastir, að sögn tónleikagesta sem mbl.is náði tali af að tónleikunum loknum.
+
+Brynju Dan Gunnarsdóttur hefur verið gert að víkja sem oddviti Framsóknar í Garðabæ. Hún segist hvorki munu taka sæti á lista flokksins í komandi kosningum né styðja flokkinn á nokkurn hátt.
+
+Skautafélag Reykjavík er Íslandsmeistari karla í íshokkí eftir að sópað Skautafélagi Akureyrar í úrslitaeinvíginu. SR vann einvígið 3-0 og leik kvöldsins 3-2.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Sun, 15 Mar 2026 06:02:03 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/15-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Sun, 15 Mar 2026 06:02:03 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
