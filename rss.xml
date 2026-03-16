@@ -2639,5 +2639,34 @@ Takk fyrir í dag, sjáumst á morgun.</description>
     <itunes:duration>180</itunes:duration>
   </item>
 
+
+  <item>
+    <title>16.03.2026 - Fréttir dagsins</title>
+    <description>Í fréttum er þetta helst
+
+Hundruð manns hafa leitað í fjöldahjálparstöðvar Rauða krossins á Norðurlandi vestra í kvöld. Veðurviðvararnir eru fallnar úr gildi en Holtavörðuheiðin stendur enn lokuð. Ekki er ljóst hvenær hún opnar að nýju.
+
+Laufey hélt sína aðra og síðustu tónleika helgarinnar í kvöld í Kórnum í Kópavogi og lýkur hún þar með tónleikaferðalagi sínu þar sem hún hefur meðal annars komið við í New-York og Lundúnum.
+
+Kristrún Frostadóttir forsætisráðherra segir marga þakka fyrir þá forystu sem hún segir að Kanada hafi sýnt á alþjóðasviðinu, á tímum þar sem mikið rót hefur verið á þeim vettvangi.
+
+Isavia lokaði í fyrrinótt öllum þremur verslunum Rammagerðarinnar á Keflavíkurflugvelli þrátt fyrir að félagið hafi að eigin sögn fengið greiðsluskjól vegna vangreiddrar leigu samkvæmt dómsúrskurði. Framkvæmdastjóri verslunarinnar kveðst hrædd og sakar rekstraraðila flugvallarins um lögbrot.
+
+Sleggjukastarinn Hilmar Örn Jónsson gerði sér lítið fyrir og setti nýtt Íslandsmet í greininni á Evrópubikarkastmótinu á Kýpur núna í morgun. Kastið nægði Hilmari einnig til þess að tryggja sér sæti á Evrópumótinu í frjálsum íþróttum sem fer fram í Birmingham í sumar.
+
+Óvissustig vegna snjóflóðahættu er á Norðurlandi og norðanverðum Vestfjörðum og á Ísafirði er hættustig. Þar hafa nokkur atvinnuhús undir Seljalandshlíð verið rýmd, á reit níu – þar er meðal annars Netagerðin sem hýsir ýmsa atvinnu og listastarfsemi.
+
+Slökkviliðsmenn slökktu í kvöld eld sem kom upp í fjölbýli í Úlfarsárdal. Engan sakaði.
+
+Takk fyrir í dag, sjáumst á morgun.</description>
+    <pubDate>Mon, 16 Mar 2026 06:01:54 GMT
+  </pubDate>
+    <enclosure url="https://raw.githubusercontent.com/msigurbjornsson/fdagsins/main/16-03-2026.mp3" type="audio/mpeg" length="1234567"/>
+    <guid isPermaLink="false">Mon, 16 Mar 2026 06:01:54 GMT
+  </guid>
+
+    <itunes:duration>180</itunes:duration>
+  </item>
+
 </channel>
 </rss>
